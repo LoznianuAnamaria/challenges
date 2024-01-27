@@ -1,2 +1,2 @@
-# challenges
+# Challenges
 Repo with ML challenges
