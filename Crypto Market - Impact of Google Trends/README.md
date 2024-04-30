@@ -1,3 +1,9 @@
-# Deciphering Crypto Trends: Google Trends Analysis and Predictive Modeling
+# Google Trends Analysis and Predictive Modeling
 
-Analyze Google Trends data and employ predictive modeling techniques to explore the dynamics of the cryptocurrency market. Uncover significant insights into how Google Trends metrics influence the valuation of crypto tokens. By incorporating additional datasets, conducting exploratory data analyses (EDAs), and utilizing advanced machine learning methods, participants will identify correlations, predict trends, and contextualize current market trends within the context of past cycles.
+Exploring the dynamics of the crypto market via Google Trends, prices, and transactions. 
+Files: 
+* [Colab & Code](Google_Trends->_Crypto_Market.ipynb)
+* [Report](Google%20Trends%20-%20Crypto%20Prices%20%20Raport.pdf)
+* [Trends](trends/trends.csv)
+* [Prices](prices/combined.csv)
+* [Transactions](transaction-info.csv)
