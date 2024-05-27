@@ -1,2 +1,2 @@
 # Challenges
-Repo with ML challenges
+Repo with Ocean Protocol's [Data challenges](https://oceanprotocol.com/earn/data-challenges/).
