@@ -1,0 +1,435 @@
+id,name,description,language,archived,stargazers_count,default_branch,created_at,updated_at,pushed_at,open_issues_count,forks_count,size,watchers_count,project
+646777673,.github,,,False,0,master,2023-05-29T10:15:00Z,2023-05-29T10:15:01Z,2024-03-21T09:51:37Z,0,0,15,0,oraichain
+438549235,aioracle,,TypeScript,False,1,develop,2021-12-15T08:19:19Z,2023-05-09T04:39:01Z,2023-10-02T07:13:35Z,0,0,4653,1,oraichain
+638162230,aioracle-contract,,Rust,False,0,main,2023-05-09T08:03:30Z,2023-05-09T08:06:03Z,2023-08-03T08:52:38Z,0,0,167,0,oraichain
+348390545,api-automation,,Lua,False,1,master,2021-03-16T15:03:16Z,2022-11-12T02:32:22Z,2021-03-17T08:58:21Z,0,0,4764,1,oraichain
+385806670,assets,,,False,1,master,2021-07-14T03:51:53Z,2022-11-12T02:30:03Z,2021-07-14T08:52:18Z,0,0,3079,1,oraichain
+302618463,audits,Collection of published audits,Solidity,False,4,main,2020-10-09T11:15:30Z,2024-02-12T15:01:01Z,2021-05-10T02:56:26Z,0,0,7538,4,oraichain
+718492432,babel-plugins,,JavaScript,False,0,main,2023-11-14T07:35:25Z,2023-11-14T07:35:56Z,2023-12-29T10:57:27Z,0,0,332,0,oraichain
+712707490,balance-monitoring-sdk,,TypeScript,False,0,main,2023-11-01T02:49:53Z,2023-11-01T02:50:39Z,2023-11-14T07:15:56Z,0,0,786,0,oraichain
+423898656,binary-rle,,Python,False,1,master,2021-11-02T15:29:44Z,2022-11-12T02:27:44Z,2021-11-02T15:33:31Z,0,0,8,1,oraichain
+669987915,bitcoin-starter-kit,,JavaScript,False,0,main,2023-07-24T03:38:43Z,2023-07-24T03:39:32Z,2023-07-24T11:01:14Z,0,0,183,0,oraichain
+706996630,bitcoin-vite-starterkit,,JavaScript,False,0,main,2023-10-19T02:41:55Z,2023-10-19T02:43:21Z,2023-10-19T02:44:37Z,0,0,154,0,oraichain
+702290869,bot_crawl_real_estate,,Python,False,0,master,2023-10-09T02:56:40Z,2023-11-20T09:56:25Z,2023-10-31T09:11:25Z,0,0,10561,0,oraichain
+739210529,co-harvest-contracts,,Rust,False,0,main,2024-01-05T02:58:52Z,2024-02-27T06:44:34Z,2024-02-27T06:44:29Z,0,0,94,0,oraichain
+514135558,code-and-design,,JavaScript,False,5,master,2022-07-15T04:39:12Z,2023-07-16T13:08:07Z,2022-07-15T07:50:48Z,0,0,6210,5,oraichain
+641236704,common-sdk,,TypeScript,False,0,main,2023-05-16T04:08:06Z,2023-05-16T04:10:29Z,2024-01-25T18:51:42Z,0,1,17037,0,oraichain
+764431656,cosmos-metamask-starterkit,,TypeScript,False,0,main,2024-02-28T04:02:16Z,2024-02-28T04:03:23Z,2024-03-01T06:42:43Z,0,0,143,0,oraichain
+659999225,cosmos-sync,,TypeScript,False,0,master,2023-06-29T02:58:02Z,2023-06-29T03:18:37Z,2024-05-07T08:28:15Z,1,1,503,0,oraichain
+329177812,cosmos-test,,,False,1,master,2021-01-13T03:03:51Z,2022-11-12T02:32:33Z,2021-01-13T03:03:54Z,0,0,0,1,oraichain
+342202007,cosmosjs,⭐ CosmosJS - Cosmos JavaScript Library ,JavaScript,True,15,main,2021-02-25T10:10:17Z,2023-02-16T19:34:57Z,2022-12-14T23:42:12Z,0,4,5090,15,oraichain
+454776417,cosmosjs-monorepo,,JavaScript,True,1,master,2022-02-02T13:01:43Z,2022-12-14T23:42:38Z,2022-08-24T06:56:27Z,0,0,306,1,oraichain
+692618137,cosmoverse,Notebook Playground for Cosmwasm Simulation,Jupyter Notebook,False,2,main,2023-09-17T03:33:43Z,2023-10-16T04:27:18Z,2023-12-20T08:04:34Z,0,1,7689,2,oraichain
+670061205,cosmwasm-lowcode,,TypeScript,False,0,main,2023-07-24T07:57:43Z,2023-07-24T11:44:37Z,2023-07-28T10:21:12Z,0,0,376,0,oraichain
+528307051,cosmwasm-mixer,,Rust,False,3,master,2022-08-24T07:10:26Z,2022-11-12T00:24:52Z,2023-04-12T01:37:42Z,1,1,11616,3,oraichain
+656281711,cosmwasm-range-proofs,,Rust,False,0,main,2023-06-20T16:13:03Z,2023-06-20T16:14:05Z,2023-06-20T17:29:46Z,0,0,1184,0,oraichain
+334839216,cosmwasm-simulate,,Rust,False,7,multiwasm,2021-02-01T05:20:51Z,2024-03-15T17:24:55Z,2022-10-17T11:01:45Z,0,1,881,7,oraichain
+697704091,cosmwasm-testing-util,,Rust,False,0,main,2023-09-28T09:52:56Z,2023-11-20T03:30:12Z,2023-12-20T04:09:48Z,0,1,67,0,oraichain
+585074747,cosmwasm-tools,A super fast and cross-platform alternative to rust-optimizer that produces optimized wasm files,TypeScript,False,12,main,2023-01-04T08:54:24Z,2024-04-28T22:04:22Z,2024-04-27T15:08:15Z,2,8,680,12,oraichain
+574439880,cosmwasm-vm-js-zk,,JavaScript,False,2,master,2022-12-05T10:13:35Z,2023-06-05T16:23:09Z,2023-12-07T10:45:39Z,0,0,849,2,oraichain
+710141482,cosmwasm-zero-to-hero,Cosmwasm Notebook with Real chains and Simulation support,Rust,False,5,main,2023-10-26T05:26:36Z,2024-03-27T14:58:30Z,2024-04-15T08:46:12Z,0,1,6159,5,oraichain
+579205539,cw-ide-codespace-template,This repository contains the template to install prerequisites for developing CosmWasm smart contract with CosmWasm IDE,Dockerfile,False,1,master,2022-12-16T23:39:25Z,2023-01-06T08:50:27Z,2022-12-17T01:35:53Z,0,0,7,1,oraichain
+522454968,cw-ide-docs,,,False,6,master,2022-08-08T07:53:37Z,2024-02-09T10:55:29Z,2022-12-18T04:19:21Z,0,0,1724,6,oraichain
+398969000,cw-ide-gitpod,,Dockerfile,False,12,master,2021-08-23T04:07:03Z,2024-02-23T19:34:33Z,2022-12-15T03:32:16Z,0,7,2053,12,oraichain
+400140682,cw-ide-vscode,An open-source project for CosmWasm smart contract developers,TypeScript,False,30,master,2021-08-26T11:13:53Z,2024-04-28T21:57:28Z,2023-01-04T21:17:54Z,1,9,1838,30,oraichain
+441598671,cw-ide-webview,,TypeScript,False,13,master,2021-12-25T03:47:35Z,2023-10-24T00:04:03Z,2022-12-17T20:48:22Z,0,5,3331,13,oraichain
+763453295,cw-oracle-hub,Price feed oracle implement flex multisig interface,Rust,False,0,main,2024-02-26T10:22:24Z,2024-04-17T03:56:08Z,2024-04-17T02:29:45Z,0,1,1534,0,oraichain
+677367685,cw1-ibc-hooks,,TypeScript,False,0,master,2023-08-11T11:54:17Z,2023-10-12T07:54:53Z,2023-10-18T03:00:15Z,0,0,274,0,oraichain
+753540951,cw20-staking,A repo for staking cw20 token,Rust,False,2,master,2024-02-06T10:25:01Z,2024-03-24T11:04:26Z,2024-03-19T04:59:42Z,0,2,323,2,oraichain
+688281291,dao-sdk,Dao contracts sdk,TypeScript,False,0,cosmwasm-1.1,2023-09-07T03:01:12Z,2023-09-13T13:33:37Z,2023-12-06T03:39:23Z,0,0,26258,0,oraichain
+401578449,datahub-starterkit,,JavaScript,False,2,master,2021-08-31T05:02:28Z,2022-11-12T00:20:20Z,2023-03-20T05:24:17Z,5,0,8106,2,oraichain
+344004004,datasource-contract-template,,Rust,False,1,master,2021-03-03T04:43:46Z,2022-11-12T02:31:48Z,2021-03-18T03:59:34Z,0,0,11,1,oraichain
+676912577,demo-stargate,demo cosmos msg forwarding through a cosmwasm smart contract,Rust,False,0,main,2023-08-10T09:47:51Z,2023-08-10T09:50:04Z,2023-08-10T09:50:00Z,0,0,20,0,oraichain
+445992695,deno-scripts,,JavaScript,False,1,master,2022-01-09T04:28:51Z,2022-11-12T00:27:56Z,2023-05-13T03:54:26Z,0,0,24,1,oraichain
+580301299,dino-euno-client-demo,A POC that shows a react app client that use owallet extension for using Euno as an Object Storage Service,TypeScript,False,0,master,2022-12-20T08:15:28Z,2022-12-22T10:58:11Z,2023-01-10T03:17:03Z,0,0,498,0,oraichain
+465210012,docs,,JavaScript,False,7,master,2022-03-02T07:59:22Z,2024-04-04T10:43:10Z,2024-03-25T04:44:47Z,1,11,44689,7,oraichain
+288762751,docs-site,Oraichain documents,JavaScript,False,2,master,2020-08-19T15:02:55Z,2024-02-12T15:01:05Z,2021-12-04T03:01:35Z,0,1,6373,2,oraichain
+655489338,duckdb-starter-kit,,JavaScript,False,0,master,2023-06-19T02:30:08Z,2023-06-24T17:17:30Z,2023-06-19T05:13:51Z,0,0,87,0,oraichain
+703394975,duckdbwasm-indexeddb-starterkit,,JavaScript,False,2,main,2023-10-11T06:57:24Z,2024-02-27T15:11:50Z,2023-10-27T09:12:16Z,0,0,3560,2,oraichain
+537388088,dvss,Pedersen decentralized verifiable secret sharing,Rust,False,2,master,2022-09-16T09:21:14Z,2023-09-05T17:58:13Z,2022-09-16T09:21:44Z,0,0,11,2,oraichain
+709318331,engineering,,,False,0,master,2023-10-24T13:30:51Z,2023-10-24T13:30:52Z,2024-01-18T01:05:17Z,0,0,6,0,oraichain
+421669679,erc1155-hardhat-starterkit,,Solidity,False,1,master,2021-10-27T03:55:59Z,2022-11-12T02:27:54Z,2021-10-27T07:18:32Z,0,0,324,1,oraichain
+709715573,ethereum-multicall-ts,ethereum-multicall is a lightweight library for interacting with the Multicall3 smart contract.,TypeScript,False,0,main,2023-10-25T08:53:16Z,2023-10-27T19:58:47Z,2023-10-25T09:03:31Z,0,0,96,0,oraichain
+611157458,eueno-proof-of-replication,,,False,0,main,2023-03-08T08:35:12Z,2023-03-03T10:22:17Z,2023-03-08T08:35:48Z,0,0,370,0,oraichain
+678301224,evm-bridge-proxy,,Solidity,False,0,master,2023-08-14T08:27:55Z,2023-10-20T03:09:09Z,2024-01-05T07:16:54Z,1,0,710,0,oraichain
+413317953,gcloud-storage-wasm,,JavaScript,False,1,master,2021-10-04T07:29:34Z,2022-11-12T02:28:37Z,2021-10-04T07:34:57Z,0,0,25,1,oraichain
+392189444,git-statistics,,JavaScript,False,2,master,2021-08-03T04:33:42Z,2022-11-12T00:29:46Z,2022-08-15T10:02:33Z,0,0,8,2,oraichain
+504016679,groth16verify,,Rust,False,1,master,2022-06-16T04:56:19Z,2022-11-12T02:25:12Z,2022-06-16T04:56:58Z,0,0,81,1,oraichain
+381243130,hackathon-ibc,,JavaScript,False,5,master,2021-06-29T04:55:46Z,2023-01-16T10:00:32Z,2021-07-05T12:20:51Z,0,0,110959,5,oraichain
+419652820,hermes-ibc-starterkit,,Shell,False,1,master,2021-10-21T09:04:24Z,2022-11-12T02:28:27Z,2021-10-21T09:05:10Z,0,0,27284,1,oraichain
+797595791,homebase,,,False,0,master,2024-05-08T06:36:21Z,2024-05-08T06:36:26Z,2024-05-08T06:36:22Z,0,0,0,0,oraichain
+535968003,ibc-bridge-wasm,,Rust,False,7,master,2022-09-13T05:11:47Z,2024-04-06T15:10:13Z,2024-04-17T10:06:15Z,1,2,115995,7,oraichain
+655625082,influxdb-starterkit,,JavaScript,False,0,main,2023-06-19T09:16:04Z,2023-06-19T09:17:19Z,2023-06-22T08:49:46Z,0,0,78,0,oraichain
+364135668,keplr-extension-orai,,JavaScript,False,1,master,2021-05-04T04:09:45Z,2022-11-12T02:30:44Z,2021-06-25T04:04:08Z,0,0,12406,1,oraichain
+403595482,learn-web3-dapp,,TypeScript,False,2,main,2021-09-06T11:24:06Z,2022-11-12T02:29:37Z,2021-09-07T03:16:37Z,0,4,1715,2,oraichain
+641283175,margined-trade-sdk,,TypeScript,False,1,main,2023-05-16T06:46:55Z,2023-05-16T18:25:54Z,2024-04-19T11:29:11Z,0,3,10383,1,oraichain
+438178757,merkle-proof-tree,,Rust,False,1,master,2021-12-14T08:44:00Z,2022-11-12T02:26:40Z,2021-12-15T04:06:46Z,0,0,40,1,oraichain
+403845440,metaplex-starterkit,,Rust,False,1,master,2021-09-07T04:58:50Z,2022-11-12T02:29:25Z,2021-09-07T04:59:35Z,0,0,8997,1,oraichain
+413031851,mongo-replicaset-starterkit,,JavaScript,False,1,master,2021-10-03T09:27:08Z,2022-11-12T02:29:06Z,2021-10-03T09:34:54Z,0,2,724,1,oraichain
+600973502,multicall,,Rust,False,0,main,2023-02-13T04:54:18Z,2023-02-13T04:54:46Z,2023-05-10T08:38:15Z,0,0,92,0,oraichain
+600101384,node_balancer,Load balancing for LCD and RPC of cosmos-sdk based nodes,Lua,False,1,main,2023-02-10T15:32:34Z,2023-04-20T18:07:36Z,2024-01-12T12:00:49Z,0,1,4594,1,oraichain
+733823726,notebookjs,,JavaScript,False,0,main,2023-12-20T07:59:06Z,2023-12-20T07:59:24Z,2024-03-20T04:06:51Z,0,0,69,0,oraichain
+690380364,opl-secret-ballot,,Vue,False,0,master,2023-09-12T04:56:01Z,2023-09-12T04:56:26Z,2023-09-13T10:18:26Z,0,0,786,0,oraichain
+288762317,orai,Monolithic repository of everything Oraichain,Go,False,25,master,2020-08-19T15:01:17Z,2024-05-07T22:07:10Z,2024-05-08T03:19:17Z,1,14,95748,25,oraichain
+600286274,orai-balance-processor,Oraichain Labs smart contract for querying asset info balances & topping-up if needed,Rust,False,0,master,2023-02-11T02:43:36Z,2023-02-11T04:48:09Z,2023-11-06T02:13:41Z,2,0,110,0,oraichain
+787715525,orai-proto,Oraichain proto client,TypeScript,False,0,main,2024-04-17T03:31:18Z,2024-04-17T03:59:17Z,2024-04-17T03:32:01Z,0,0,3500,0,oraichain
+367249190,orai-tutorials,,,False,1,master,2021-05-14T04:32:50Z,2022-11-12T02:31:14Z,2021-05-14T04:32:50Z,0,0,0,1,oraichain
+501502899,oraibridge-explorer,Explorer of OraiBridge,JavaScript,False,3,master,2022-06-09T04:25:48Z,2023-03-05T13:23:27Z,2023-02-03T08:30:19Z,0,4,25565,3,oraichain
+577996419,oraichain-fork,,JavaScript,False,0,master,2022-12-14T02:19:03Z,2022-12-14T18:59:42Z,2023-02-17T19:00:40Z,0,0,47,0,oraichain
+376772804,oraichain-price,,JavaScript,False,1,master,2021-06-14T09:41:12Z,2022-11-12T02:27:35Z,2021-11-03T11:34:28Z,0,0,283,1,oraichain
+349394498,oraichain-prometheus,,,False,1,master,2021-03-19T11:08:00Z,2022-11-12T02:31:39Z,2021-03-19T11:17:56Z,0,1,5,1,oraichain
+322759275,oraichain-static-files,,Shell,False,3,master,2020-12-19T03:37:35Z,2024-03-25T13:51:14Z,2024-03-12T00:25:12Z,0,2,651,3,oraichain
+324363479,oraichain-static-files-private,,Shell,False,1,master,2020-12-25T13:02:14Z,2022-11-12T02:32:42Z,2021-01-06T10:36:50Z,0,0,75,1,oraichain
+515132474,oraichain-us-static-file,,Shell,False,1,master,2022-07-18T10:14:10Z,2022-11-12T00:21:55Z,2022-10-26T07:09:39Z,0,0,21550,1,oraichain
+356228480,oraichain-wallet-legacy,[DEPRECATED] A decentralized application that supports storing user keys securely on the web browser and signing transactions on Oraichain and possibly other Cosmos-based networks as well!.,JavaScript,True,5,master,2021-04-09T10:19:39Z,2023-01-27T23:12:16Z,2022-07-11T07:41:56Z,0,3,7421,5,oraichain
+356112263,oraicli,Oraichain CLI to interact with the Oraichain network,JavaScript,False,5,master,2021-04-09T02:41:34Z,2024-03-15T13:27:51Z,2023-03-22T19:10:01Z,0,0,346,5,oraichain
+618637262,oraidex-listing,,TypeScript,False,1,master,2023-03-24T23:15:38Z,2023-04-12T06:43:02Z,2024-01-05T19:50:50Z,0,0,4360,1,oraichain
+641562718,oraidex-listing-contract,,Rust,False,0,master,2023-05-16T18:25:32Z,2023-05-16T19:56:14Z,2024-01-05T00:40:28Z,0,0,122,0,oraichain
+638755456,oraidex-sdk,Oraichain OraiDEX & Orderbook SDK,TypeScript,False,2,main,2023-05-10T03:18:53Z,2024-05-08T08:53:46Z,2024-05-08T08:55:49Z,4,9,29327,2,oraichain
+316470417,oraiscan-frontend,,CSS,False,5,master,2020-11-27T10:29:19Z,2024-05-06T08:18:33Z,2024-05-06T08:33:52Z,1,11,45052,5,oraichain
+445991281,oraiswap,Uniswap-inspired automated market-maker (AMM) protocol powered by Smart Contracts on the Orai blockchain.,Rust,False,17,main,2022-01-09T04:19:22Z,2024-04-19T22:51:31Z,2024-04-19T22:51:29Z,2,15,11152,17,oraichain
+449552985,oraiswap-frontend,"OraiDEX is an IBC and CosmWasm-based decentralized exchange platform with multichain interoperability, optimal speed, and a lot of liquidity options for users",TypeScript,False,18,main,2022-01-19T04:59:59Z,2024-05-08T09:59:39Z,2024-05-08T11:26:03Z,6,16,62793,18,oraichain
+340681816,oraiwasm,Oraichain smart contracts,Rust,False,20,master,2021-02-20T15:04:11Z,2024-05-04T02:22:18Z,2023-11-15T04:07:50Z,1,2,65712,20,oraichain
+431421215,oraiwasm_scaffold,Scaffolding for a CosmWasm smart contract built on Oraichain and other Cosmos-based networks that use CosmWasm,Rust,False,2,master,2021-11-24T09:26:20Z,2023-01-17T06:22:29Z,2022-12-17T00:57:11Z,0,2,32,2,oraichain
+764974512,oraix-erc20-token,,Solidity,False,0,master,2024-02-29T03:33:57Z,2024-02-29T03:34:16Z,2024-02-29T05:04:39Z,0,0,6,0,oraichain
+381232996,orai_ai_bot,,,False,1,master,2021-06-29T03:57:41Z,2022-11-12T02:30:25Z,2021-07-08T09:49:58Z,0,0,150,1,oraichain
+567695047,orderbook-golang,,Go,False,0,master,2022-11-18T11:06:17Z,2022-11-18T11:08:24Z,2022-11-18T11:07:32Z,0,0,296,0,oraichain
+346276023,oscript-contract-template,Oracle script smart contract for Oraichain,Rust,False,1,master,2021-03-10T07:55:12Z,2022-11-12T02:31:56Z,2021-03-18T03:54:01Z,0,0,6,1,oraichain
+546614312,owallet,OWallet: Cosmos x EVM in one Wallet,TypeScript,False,10,main,2022-10-06T11:11:52Z,2024-04-17T03:57:31Z,2024-05-08T11:36:53Z,7,13,85717,10,oraichain
+523269761,owallet-background,Owallet package background,TypeScript,False,2,master,2022-08-10T08:54:39Z,2023-11-23T15:48:15Z,2024-02-28T09:46:03Z,0,3,665,2,oraichain
+497039188,owallet-docs,"A wallet that supports both Cosmos-based and EVM-based networks including Cosmos Hub, Oraichain, Osmosis, Juno, Ethereum, BSC, and more",,False,1,master,2022-05-27T15:02:34Z,2022-11-12T00:29:36Z,2023-04-07T11:28:06Z,0,0,24,1,oraichain
+681011991,playwright-startker-kit,,TypeScript,False,1,main,2023-08-21T04:31:35Z,2023-08-22T02:46:44Z,2023-08-21T06:48:35Z,0,0,19,1,oraichain
+693978792,pm2-watchdog,,JavaScript,False,1,main,2023-09-20T05:02:57Z,2023-10-01T12:13:31Z,2023-09-20T09:55:55Z,0,0,84,1,oraichain
+513805338,reward_payment,,Rust,False,0,master,2022-07-14T07:39:14Z,2022-07-15T04:49:16Z,2022-08-08T10:32:08Z,0,0,315,0,oraichain
+679609290,rxdb-react-starter-kit,,JavaScript,False,0,main,2023-08-17T08:12:48Z,2024-01-10T14:25:51Z,2023-08-17T08:13:34Z,0,0,615,0,oraichain
+297574264,sales,,,False,1,master,2020-09-22T07:46:20Z,2022-11-12T02:33:09Z,2020-11-02T07:33:24Z,0,0,70408,1,oraichain
+346656676,smart-studio,Cosmwasm Playground for developing smart contracts,Rust,False,14,master,2021-03-11T10:02:31Z,2024-04-28T22:03:19Z,2023-12-07T10:49:53Z,1,4,210227,14,oraichain
+434508420,solana-executor-starterkit,,TypeScript,False,1,master,2021-12-03T07:43:18Z,2022-11-12T02:27:26Z,2021-12-03T07:44:55Z,0,0,51,1,oraichain
+401718780,sonar-solidity,,Java,False,1,master,2021-08-31T13:45:25Z,2022-11-12T02:29:50Z,2021-08-31T13:45:52Z,0,0,694,1,oraichain
+673718784,subscription-sdk,,TypeScript,False,0,main,2023-08-02T09:11:10Z,2023-08-02T09:12:23Z,2023-08-02T10:53:45Z,0,0,832,0,oraichain
+346217440,testcase-contract-template,template for the oracle test case smart contract,Rust,False,1,master,2021-03-10T03:18:40Z,2022-11-12T02:32:04Z,2021-03-18T03:53:30Z,0,0,8,1,oraichain
+795270219,ton-contracts,,TypeScript,False,0,master,2024-05-02T23:27:59Z,2024-05-08T10:49:41Z,2024-05-08T10:49:38Z,0,0,155,0,oraichain
+659618752,tradingview-starterkit,,HTML,False,0,master,2023-06-28T07:59:45Z,2023-06-28T08:00:44Z,2023-06-28T08:00:33Z,0,0,6953,0,oraichain
+763306970,treasury-contract,A treasury contract for distribute the cw20 for multiple targets and trigger preset hooks,Rust,False,0,master,2024-02-26T03:23:42Z,2024-02-27T02:28:15Z,2024-03-19T03:50:27Z,0,0,133,0,oraichain
+689499644,trustworthy-proof,,Rust,False,0,main,2023-09-10T02:10:19Z,2023-09-10T02:10:54Z,2023-09-10T04:41:09Z,0,0,33,0,oraichain
+418382868,ultrafast-tsx-starterkit,,JavaScript,False,5,master,2021-10-18T07:03:49Z,2022-11-12T02:28:17Z,2021-10-21T11:25:59Z,0,1,302,5,oraichain
+564876823,vrf-listener,,JavaScript,False,1,master,2022-11-11T18:00:37Z,2022-11-12T00:16:48Z,2022-11-11T19:39:38Z,0,0,38,1,oraichain
+688408451,web3-multifactor-example,A basic example for web3-multifactor with reactjs18,TypeScript,False,0,master,2023-09-07T09:35:39Z,2023-09-07T09:37:07Z,2023-12-04T04:50:38Z,0,0,1169,0,oraichain
+702284563,web3-multifactor-react-native-example,A basic example for web3-multifactor with reactjs18,Swift,False,0,master,2023-10-09T02:28:22Z,2023-10-18T09:07:21Z,2023-12-04T06:33:42Z,0,1,319,0,oraichain
+302382386,yai-protocol,yAI Smart Contract,Solidity,False,2,master,2020-10-08T15:20:46Z,2022-11-12T02:32:59Z,2020-12-21T12:02:27Z,0,0,49,2,oraichain
+502878261,zksnarks-anonymous-transactions,,Rust,False,1,master,2022-06-13T08:53:10Z,2022-11-12T02:25:23Z,2022-06-13T08:53:37Z,0,0,132,1,oraichain
+767430997,.github,,,False,0,main,2024-03-05T09:29:48Z,2024-03-05T12:05:05Z,2024-03-05T13:39:53Z,0,0,8,0,fetchai
+203558879,agents-aea,A framework for autonomous economic agent (AEA) development,Python,False,190,main,2019-08-21T10:12:47Z,2024-04-30T07:52:05Z,2023-07-19T04:45:10Z,88,61,106099,190,fetchai
+359752925,agents-manager-app-site,Website for AEA Manager app,HTML,False,1,main,2021-04-20T09:09:41Z,2021-12-09T09:58:16Z,2022-05-27T09:56:01Z,1,1,534,1,fetchai
+176983957,agents-tac,Competition and Agent Frameworks for the Trading Agents Competition,Jupyter Notebook,True,27,main,2019-03-21T16:27:33Z,2024-01-22T08:58:34Z,2022-07-27T12:07:31Z,0,8,12408,27,fetchai
+312016315,agents-template,A template repo for development with the AEA framework,Shell,False,7,main,2020-11-11T15:48:17Z,2022-06-14T20:43:34Z,2020-11-11T16:12:57Z,0,8,5,7,fetchai
+312335969,agents-yoti,A repo to explore integrating the AEA framework (https://docs.fetch.ai/aea) with Yoti (https://www.yoti.com).,Python,True,4,main,2020-11-12T16:38:16Z,2022-11-22T13:04:27Z,2021-01-15T15:13:47Z,0,0,1033,4,fetchai
+238216298,apps-wallet-chrome-extension,,JavaScript,True,1,master,2020-02-04T13:45:45Z,2023-01-28T04:08:40Z,2020-04-28T17:09:31Z,0,0,103693,1,fetchai
+777671241,avctl,Command line tool for interacting with Agentverse hosted services,,False,0,main,2024-03-26T09:49:29Z,2024-03-26T09:49:29Z,2024-04-17T15:12:35Z,0,0,16,0,fetchai
+592671420,babble,A python client library for sending messages via the memorandum service,Python,False,1,main,2023-01-24T09:16:48Z,2023-03-15T22:57:36Z,2024-03-06T13:18:38Z,1,0,59,1,fetchai
+199651873,carpark_agent,Fetch.ai Carpark agent - A Raspberry Pi CCTV camera project to broadcast numbers of available car parking spaces on the Fetch.ai network,Python,True,14,master,2019-07-30T12:56:51Z,2023-11-22T18:52:49Z,2020-09-01T12:07:35Z,1,3,12193,14,fetchai
+288762198,colearn,Colearn is a collection of protocols for running multi-stakeholder machine learning that preserve data privacy,Python,False,37,master,2020-08-19T15:00:54Z,2024-03-30T15:08:06Z,2023-05-23T08:47:13Z,13,12,39816,37,fetchai
+239742630,cosmos-consensus,Integration of the Fetch DRB with the Tendermint consensus,Go,True,3,master,2020-02-11T11:11:04Z,2023-01-27T21:58:00Z,2022-07-21T01:31:56Z,17,7,61581,3,fetchai
+248222385,cosmos-explorer,Fetch.ai network explorer,JavaScript,False,8,master,2020-03-18T12:13:41Z,2023-10-27T20:25:01Z,2024-02-05T14:48:42Z,26,7,7314,8,fetchai
+248020306,cosmos-sdk,Fetch.ai fork of the Cosmos SDK,Go,False,12,main,2020-03-17T16:33:47Z,2024-03-23T06:05:41Z,2023-11-02T07:52:18Z,14,12,59668,12,fetchai
+378897019,cosmpy,A Python client library for interacting with blockchains based on the Cosmos-SDK,Python,False,118,main,2021-06-21T10:46:18Z,2024-05-08T06:47:44Z,2024-01-11T13:07:06Z,38,64,2947,118,fetchai
+497113856,cra-template-cosmjs-keplr,A create-react-app template for DApps which interact with cosmos-based networks as well as the Fetch wallet and Keplr,JavaScript,False,3,main,2022-05-27T19:24:21Z,2023-12-10T20:02:15Z,2022-09-13T18:05:03Z,0,1,599,3,fetchai
+765170413,cw-fetch-std,A Rust library for CosmWasm smart contract development,Rust,False,0,main,2024-02-29T12:14:35Z,2024-04-30T09:23:59Z,2024-04-30T09:23:54Z,1,0,71,0,fetchai
+278675985,demo-collective-learning,Demo code for the Collective Learning Medium article,Jupyter Notebook,True,1,master,2020-07-10T15:58:50Z,2023-01-27T22:33:12Z,2020-07-30T11:49:06Z,0,1,20,1,fetchai
+190405608,docker-constellation,Docker image repository for generating a docker build,Python,False,2,master,2019-06-05T14:00:57Z,2021-09-08T05:30:01Z,2020-02-24T18:19:58Z,0,3,17,2,fetchai
+130868510,docker-images,"Dockerfiles, scripts and setup necesary to build docker images used by Fetch.ai (e.g. for build, CI, etc. ...)",Shell,True,4,master,2018-04-24T14:37:51Z,2024-01-18T08:10:05Z,2021-06-01T22:48:43Z,2,6,76,4,fetchai
+189378561,docs,This repo contains documentation for public Fetch.ai products.,Makefile,False,57,master,2019-05-30T08:46:39Z,2024-03-19T05:29:42Z,2023-11-21T11:56:04Z,13,40,194453,57,fetchai
+548929176,dragonberry-fetchhub,,Go,False,0,dragonberry,2022-10-10T12:07:06Z,2022-10-17T14:50:48Z,2022-10-17T14:49:41Z,0,0,8670,0,fetchai
+221247771,etch-demos,Etch demo versions of popular Ethereum tutorial dApps.,Jupyter Notebook,True,1,master,2019-11-12T15:17:17Z,2023-01-27T21:58:00Z,2019-12-12T05:04:40Z,1,0,110,1,fetchai
+184229376,etch-examples,,Python,True,8,master,2019-04-30T09:06:09Z,2023-01-27T21:57:59Z,2020-01-28T15:35:36Z,2,6,61,8,fetchai
+333176821,fetch-ethereum-bridge-v1,,Rust,False,3,master,2021-01-26T18:23:06Z,2022-07-01T14:36:49Z,2024-04-29T14:36:30Z,1,2,1341,3,fetchai
+781876026,fetchai-labs,Experiment with AI and Agent powered Apps,,False,0,main,2024-04-04T07:57:52Z,2024-04-09T13:16:51Z,2024-04-18T03:25:36Z,0,1,52,0,fetchai
+271322584,fetchd,Source code for Fetch.ai blockchain nodes,Go,False,89,master,2020-06-10T16:02:35Z,2024-04-27T06:19:41Z,2024-04-23T12:40:57Z,33,35,9930,89,fetchai
+513083494,FIPs,The Fetch Improvement Proposals repository,,False,3,main,2022-07-12T09:41:50Z,2024-04-02T13:47:09Z,2024-04-08T12:48:33Z,0,1,212,3,fetchai
+366458978,genesis-fetchhub,repo for launching Stargate upgrade of Fetch.ai mainnet,JavaScript,False,1,main,2021-05-11T17:11:07Z,2024-01-09T09:15:27Z,2024-01-11T13:17:21Z,0,5,25354,1,fetchai
+352013264,genesis-launch,Repo for launch of Fetch.ai main-net,,True,11,main,2021-03-27T07:47:08Z,2023-04-28T18:24:05Z,2021-03-31T14:51:55Z,0,17,80,11,fetchai
+349397365,genesis-prelaunch,Repository for coordinating prelaunch network starts,,True,1,master,2021-03-19T11:19:24Z,2023-01-27T21:58:13Z,2021-03-25T18:39:27Z,2,16,42,1,fetchai
+497112660,hellodapp,,WebAssembly,False,0,main,2022-05-27T19:19:55Z,2022-05-27T19:23:21Z,2022-05-30T12:27:18Z,0,0,201,0,fetchai
+777719594,homebrew-avctl,Homebrew repository for AVCTL,Ruby,False,0,main,2024-03-26T11:40:26Z,2024-03-28T16:31:29Z,2024-04-17T15:12:36Z,0,0,12,0,fetchai
+321473436,improvement-proposals,,,True,2,main,2020-12-14T21:08:53Z,2023-01-27T21:58:49Z,2021-01-21T11:08:49Z,0,0,7,2,fetchai
+480550696,jenesis,,Python,False,8,main,2022-04-11T21:02:25Z,2024-01-30T13:53:37Z,2024-03-22T17:06:57Z,13,3,681,8,fetchai
+517989192,jenesis-templates,,Rust,False,0,master,2022-07-26T09:07:32Z,2022-09-05T12:33:14Z,2022-10-20T13:47:41Z,0,1,106,0,fetchai
+117567381,ledger,Official Fetch.AI Ledger C++ implementation,C++,True,79,master,2018-01-15T16:15:05Z,2024-04-20T20:36:26Z,2021-11-18T10:45:38Z,0,48,37321,79,fetchai
+210595368,ledger-api-javascript,Official Javascript client library for interacting with the Fetch.AI Ledger,TypeScript,True,3,master,2019-09-24T12:17:51Z,2023-01-28T05:16:49Z,2021-11-18T10:46:20Z,0,3,234,3,fetchai
+171691956,ledger-api-py,Official Python client library for interacting with the Fetch.AI Ledger,Python,True,18,master,2019-02-20T14:51:12Z,2023-04-28T18:23:54Z,2021-11-18T10:46:56Z,0,15,429,18,fetchai
+145117118,ledger-archive,,C++,True,28,develop,2018-08-17T12:20:25Z,2023-01-28T18:13:28Z,2019-05-29T16:37:17Z,42,11,26805,28,fetchai
+296627840,ledger-staking-contract,,Solidity,True,10,master,2020-09-18T13:23:39Z,2024-02-06T18:13:35Z,2021-08-01T20:10:52Z,0,3,1525,10,fetchai
+315273836,mettalex-documentation,Public documentation for Mettalex ,,True,5,main,2020-11-23T10:08:06Z,2024-01-12T10:37:23Z,2022-07-06T12:32:27Z,0,1,36283,5,fetchai
+297272731,mettalex-market-maker,,Solidity,True,15,master,2020-09-21T08:14:15Z,2024-01-12T10:38:48Z,2022-06-28T08:17:42Z,6,9,4919,15,fetchai
+439376454,mobix-token,ERC-20 contract for Mobix,Python,True,0,main,2021-12-17T15:25:33Z,2023-01-27T21:58:51Z,2022-03-25T09:17:35Z,0,1,35,0,fetchai
+281867230,networks-agentland,Information for connecting to the Agentland testnet,,True,2,master,2020-07-23T06:14:42Z,2023-01-27T21:56:09Z,2020-09-02T10:19:24Z,1,0,16,2,fetchai
+313669403,networks-beaconworld,,,True,2,master,2020-11-17T15:56:17Z,2023-01-27T21:56:10Z,2021-02-04T13:21:33Z,0,0,21,2,fetchai
+377125713,pyOEF,,Python,True,2,main,2021-06-15T10:36:58Z,2023-01-27T21:49:02Z,2021-09-22T19:17:42Z,0,1,67,2,fetchai
+235295067,research-dvrf,C++ implementation of Distributed Verifiable Random Functions,C++,True,24,master,2020-01-21T08:53:50Z,2024-03-20T12:55:16Z,2020-02-17T17:07:30Z,0,8,3576,24,fetchai
+210855588,staking-contract,Smart contract implementing the Fetch Dutch Staking Auctions,JavaScript,True,5,master,2019-09-25T13:43:55Z,2023-01-27T21:57:59Z,2022-06-06T22:13:42Z,2,4,1910,5,fetchai
+417093823,tech-writer-challenge,,JavaScript,False,0,master,2021-10-14T10:55:25Z,2021-10-15T15:35:43Z,2021-10-14T11:06:55Z,0,1,118,0,fetchai
+381083181,tendermint,,Go,False,1,main,2021-06-28T15:42:18Z,2021-09-08T05:27:24Z,2023-01-26T11:04:42Z,22,2,65833,1,fetchai
+170364654,tools-etch-code-highlighter,Etch code highlighters ,Vim script,True,5,master,2019-02-12T17:55:07Z,2023-01-27T21:57:22Z,2019-10-14T14:51:49Z,1,2,19,5,fetchai
+166426709,tools-pocketbook,Python based CLI wallet for testing ledger instances,Python,True,1,master,2019-01-18T15:35:05Z,2023-01-28T05:16:49Z,2021-11-18T10:45:29Z,0,3,80,1,fetchai
+542713154,uAgents,A fast and lightweight framework for creating decentralized agents with ease.,Python,False,710,main,2022-09-28T17:31:19Z,2024-05-08T06:47:35Z,2024-05-08T12:53:30Z,48,185,25210,710,fetchai
+666398744,uAgents-examples,A collection of uAgents project examples,Python,False,4,main,2023-07-14T12:18:33Z,2024-02-01T16:53:31Z,2023-09-24T07:56:11Z,2,6,201,4,fetchai
+252237634,wallet-browser-extension,,TypeScript,True,1,master,2020-04-01T17:05:54Z,2023-01-28T04:08:41Z,2020-11-26T13:39:27Z,1,0,37627,1,fetchai
+255576970,website-token-information,Website containing information about FET token trends,JavaScript,True,7,master,2020-04-14T10:19:46Z,2023-01-30T08:41:36Z,2022-08-30T17:15:47Z,26,2,1429,7,fetchai
+128555557,agi-faucet,Automated faucet for distributing AGI Tokens,HTML,False,12,master,2018-04-07T18:11:39Z,2024-05-08T09:17:16Z,2024-05-08T09:17:13Z,9,13,459,12,singularitynet
+299850186,agix-contracts,,JavaScript,False,3,master,2020-09-30T08:03:30Z,2024-02-21T02:15:14Z,2023-12-06T12:31:38Z,1,4,258,3,singularitynet
+338078172,ai-dsl,Artificial Intelligence Domain Specific Language (AI-DSL) to enable autonomous interoperability between AI services.,Idris,False,60,master,2021-02-11T16:03:59Z,2024-04-19T14:06:24Z,2023-12-07T06:55:43Z,3,17,11889,60,singularitynet
+408694159,airdrop-dapp,,TypeScript,False,4,development,2021-09-21T05:06:00Z,2023-04-24T03:59:14Z,2022-11-08T11:17:32Z,0,17,4737,4,singularitynet
+408320052,airdrop-services,,Python,False,2,master,2021-09-20T05:22:41Z,2022-12-13T09:50:16Z,2023-09-11T10:31:08Z,0,7,747,2,singularitynet
+130132121,alpha-daemon,Alpha implementation of SingularityNET daemon for hosting AI services on the SNET decentralized network.,Python,True,15,master,2018-04-18T23:13:40Z,2023-01-28T16:59:21Z,2019-10-08T16:36:12Z,1,2,73,15,singularitynet
+113882978,alpha-dapp,SingularityNET Alpha DApp let's you interact with Agents registered on the Kovan network using testnet AGI,JavaScript,True,20,master,2017-12-11T16:36:57Z,2023-01-28T17:09:51Z,2018-11-27T09:11:40Z,15,15,1725,20,singularitynet
+357073918,batch-token-transfer,Contract to batch transfer ERC20 tokens in a gas efficient manner,JavaScript,False,16,main,2021-04-12T05:52:59Z,2024-04-06T14:38:54Z,2021-05-14T06:07:55Z,0,18,102,16,singularitynet
+267229315,cancer,OpenCog/SNet precision medicine for clinical trials poc project,HTML,False,7,master,2020-05-27T05:30:09Z,2022-07-07T14:56:48Z,2022-07-07T14:56:41Z,9,5,195756,7,singularitynet
+233802863,causality-detection,,R,False,2,master,2020-01-14T09:19:43Z,2023-02-09T23:28:23Z,2022-12-08T03:46:16Z,8,3,1088,2,singularitynet
+185803015,celebrity-gan,,Python,False,0,master,2019-05-09T13:20:46Z,2020-04-01T18:12:39Z,2023-03-24T21:56:31Z,1,1,84079,0,singularitynet
+248754014,coghome,,Python,False,2,master,2020-03-20T12:49:10Z,2021-01-15T00:16:17Z,2020-03-23T18:53:13Z,0,0,17,2,singularitynet
+532845277,cogito-protocol,,Jupyter Notebook,False,8,master,2022-09-05T10:10:14Z,2024-03-11T00:57:13Z,2023-04-23T14:45:25Z,0,0,61918,8,singularitynet
+741414390,concat-stream,,JavaScript,False,0,master,2024-01-10T10:50:28Z,2024-01-10T12:10:04Z,2024-01-10T12:20:13Z,0,0,4,0,singularitynet
+187088845,conceptnet-server,,Scheme,False,3,master,2019-05-16T19:25:53Z,2019-11-19T03:14:26Z,2019-09-25T12:14:14Z,0,3,26,3,singularitynet
+355430660,converter-token-manager,Manages the liquidity pool associated with the converter and provides lock / unlock functionality,JavaScript,False,6,main,2021-04-07T06:04:25Z,2023-01-04T00:59:25Z,2023-11-17T09:09:12Z,1,5,315,6,singularitynet
+784642625,converter-token-manager-v2,,JavaScript,False,0,master,2024-04-10T08:59:37Z,2024-05-08T08:02:45Z,2024-05-08T08:02:41Z,0,1,902,0,singularitynet
+393299501,cough-service,,JavaScript,False,0,master,2021-08-06T07:49:22Z,2021-08-17T09:02:08Z,2021-08-17T09:02:05Z,0,3,27,0,singularitynet
+396795646,cough-service-dapp,,JavaScript,False,0,main,2021-08-16T12:58:24Z,2021-08-16T15:07:08Z,2021-08-16T15:12:58Z,0,2,7354,0,singularitynet
+259329194,covid-simulation,,Jupyter Notebook,False,15,master,2020-04-27T13:25:15Z,2022-06-06T08:38:52Z,2021-04-02T20:17:26Z,7,10,256060,15,singularitynet
+145907240,custom-ui-research,,JavaScript,False,4,master,2018-08-23T21:06:04Z,2019-04-24T22:24:01Z,2018-08-23T21:10:02Z,1,1,681,4,singularitynet
+772226842,das,,Jupyter Notebook,False,1,master,2024-03-14T19:23:39Z,2024-05-07T17:05:03Z,2024-05-07T17:05:00Z,6,0,6790,1,singularitynet
+685210482,das-atom-db,Persistence layer,Python,False,2,master,2023-08-30T18:38:19Z,2024-05-07T17:25:03Z,2024-05-07T17:25:03Z,9,0,884,2,singularitynet
+679440087,das-infra-stack-aws,Scripts/assets to install required infrastructure stack in AWS,HCL,False,0,master,2023-08-16T21:11:51Z,2023-12-11T17:40:27Z,2024-01-10T19:30:10Z,0,0,13,0,singularitynet
+679439833,das-infra-stack-vultr,Scripts/assets to install required infrastructure stack in Vultr,Python,False,0,master,2023-08-16T21:10:49Z,2024-02-09T21:52:10Z,2024-04-18T20:06:40Z,0,0,78,0,singularitynet
+750549346,das-metta-parser,A Flex/Bison parser for MeTTa knowledge base files,C,False,0,master,2024-01-30T21:09:32Z,2024-05-07T17:24:22Z,2024-05-07T17:24:21Z,1,0,18974,0,singularitynet
+716603000,das-openfaas-templates,,Python,False,0,master,2023-11-09T13:38:02Z,2023-12-13T13:40:06Z,2024-03-21T18:41:52Z,0,0,12,0,singularitynet
+417168578,das-poc,Distributed Atomspace.,Python,False,10,main,2021-10-14T14:45:02Z,2024-03-14T19:19:13Z,2023-10-20T13:16:34Z,11,12,191703,10,singularitynet
+679439206,das-pre-infra-aws,Scripts/assets to provision and instantiate required hardware in AWS,HCL,False,0,master,2023-08-16T21:08:24Z,2023-12-11T17:40:01Z,2023-12-21T11:29:54Z,0,0,8,0,singularitynet
+679438934,das-pre-infra-vultr,Scripts/assets to provision and instantiate required hardware in Vultr,Shell,False,0,master,2023-08-16T21:07:15Z,2024-02-22T19:49:16Z,2024-04-04T14:00:35Z,0,0,21,0,singularitynet
+795164991,das-proto,,Starlark,False,0,master,2024-05-02T17:53:55Z,2024-05-02T18:48:00Z,2024-05-02T18:48:49Z,0,0,44,0,singularitynet
+685208704,das-query-engine,Query engine and pattern matcher,Python,False,2,master,2023-08-30T18:33:08Z,2024-05-07T17:25:12Z,2024-05-07T17:25:11Z,24,2,7384,2,singularitynet
+680119679,das-scripts-pipeline,CI/CD Pipeline and workflow tools,Shell,True,0,master,2023-08-18T11:42:34Z,2024-04-22T19:43:44Z,2024-03-27T14:53:59Z,1,0,209,0,singularitynet
+709483298,das-serverless-functions,,Python,False,0,master,2023-10-24T19:56:04Z,2024-05-07T17:24:43Z,2024-05-07T17:24:43Z,1,0,197,0,singularitynet
+751096859,das-toolbox,,Python,False,0,master,2024-01-31T23:16:26Z,2024-05-07T17:06:01Z,2024-05-07T17:06:29Z,2,0,149,0,singularitynet
+155491258,dev-portal,"The SingularityNET Developer Portal where you can find all our documentation, tutorials, and developer resources!",HTML,False,109,master,2018-10-31T03:12:20Z,2024-05-08T06:21:05Z,2024-05-03T13:43:48Z,50,52,59452,109,singularitynet
+144040790,dnn-model-services, A collection of SingularityNET services using third party DNN models.,Python,False,27,master,2018-08-08T16:33:59Z,2024-02-29T04:51:19Z,2023-05-22T21:39:03Z,31,19,14916,27,singularitynet
+429312237,erc20-bridge-docs,,SCSS,False,0,main,2021-11-18T05:50:16Z,2023-10-07T08:57:43Z,2021-12-14T07:02:16Z,0,1,105,0,singularitynet
+161188688,example-service,Simple arithmetic service compatible with SingularityNET platform. Can be used as a starting point to build services on the platform,Python,False,18,master,2018-12-10T14:37:57Z,2024-05-08T06:22:44Z,2022-06-10T05:05:11Z,5,26,31,18,singularitynet
+128837931,face-services,"Everything faces 👶👦👧👨👩👴👵 - detection, landmarks, alignment, recognition.",Python,False,29,master,2018-04-09T21:50:43Z,2024-02-24T01:39:13Z,2023-07-05T20:59:59Z,9,9,2207,29,singularitynet
+626919761,faucet-contracts,Smart contracts for faucet portal,Solidity,False,0,master,2023-04-12T12:27:12Z,2023-04-13T12:58:29Z,2023-04-13T14:40:00Z,0,1,5,0,singularitynet
+138784253,ghost-scripts,,Scheme,False,4,master,2018-06-26T19:34:30Z,2023-07-08T08:05:29Z,2018-11-13T11:08:23Z,6,0,67,4,singularitynet
+184218640,git-metrics,,Python,False,0,master,2019-04-30T08:02:04Z,2019-05-06T09:13:42Z,2019-05-06T09:13:40Z,0,1,5,0,singularitynet
+781459795,Hate-Speech-Runpod,,Python,False,0,master,2024-04-03T12:28:28Z,2024-04-05T12:26:56Z,2024-04-03T12:35:26Z,0,0,6,0,singularitynet
+775931255,Hate-Speech-Triton,,JavaScript,False,0,master,2024-03-22T10:33:26Z,2024-03-22T13:02:18Z,2024-03-22T13:14:08Z,0,0,25,0,singularitynet
+245832055,image-matching,,Python,False,17,master,2020-03-08T14:45:15Z,2023-12-21T12:49:03Z,2022-01-25T07:48:18Z,1,3,165885,17,singularitynet
+734046681,integration-github-mattermost,Required scripts to integrate github notifications in Mattermost channels.,Python,False,0,master,2023-12-20T18:25:44Z,2023-12-20T19:02:38Z,2024-04-02T23:16:57Z,0,0,15,0,singularitynet
+176519001,language-modeling,,Python,False,0,master,2019-03-19T13:33:48Z,2022-07-08T14:06:25Z,2022-12-14T03:10:48Z,1,4,127,0,singularitynet
+517994965,maintenance-dapp,,TypeScript,False,0,master,2022-07-26T09:24:47Z,2022-07-29T09:15:54Z,2022-07-29T09:15:14Z,0,0,556,0,singularitynet
+669112043,metafusion,,Python,False,0,main,2023-07-21T11:19:05Z,2024-05-07T13:21:09Z,2024-05-07T13:21:04Z,14,4,2802,0,singularitynet
+138784508,network-analysis-blockchain,,,False,1,master,2018-06-26T19:36:54Z,2018-12-06T03:31:14Z,2018-06-26T19:36:55Z,0,0,1,1,singularitynet
+138784362,network-analysis-politics,,,False,2,master,2018-06-26T19:35:35Z,2018-12-16T07:48:54Z,2018-06-26T19:35:37Z,0,0,1,2,singularitynet
+137218722,network-analytics-services,,Python,False,8,master,2018-06-13T13:22:21Z,2021-05-26T13:35:24Z,2023-07-17T00:32:38Z,10,9,350,8,singularitynet
+144041200,nlp-services,SingularityNET services for understanding or manipulating natural language,Python,False,17,master,2018-08-08T16:37:44Z,2024-03-11T00:57:44Z,2022-12-27T15:38:11Z,15,21,94346,17,singularitynet
+170531684,nlp-services-misc,"Supplemental services in spirt of https://github.com/singnet/nlp-services. This repo contains work from allenlp, in house developed works. Once the initial phase of the beta is finalized it would be merged into that repo. For now, we would keep it here. ",Python,False,2,master,2019-02-13T15:32:20Z,2022-06-07T07:13:53Z,2022-06-21T22:31:40Z,2,5,180,2,singularitynet
+373163152,nodejs-grpc-stub-generator,,JavaScript,False,0,master,2021-06-02T12:39:43Z,2021-07-13T07:34:48Z,2021-07-16T07:32:55Z,2,2,66,0,singularitynet
+436918862,nunet-occam-airdrop-dapp,Airdrop portal for NuNet Occam ,TypeScript,False,1,main,2021-12-10T09:18:00Z,2024-02-21T02:15:49Z,2022-10-19T08:36:48Z,0,8,2081,1,singularitynet
+126846406,offernet,Offer Networks simulation framework written in Java/Groovy/Gremlin,HTML,False,8,master,2018-03-26T15:04:09Z,2022-02-06T16:39:50Z,2018-11-21T23:27:17Z,22,5,315571,8,singularitynet
+577581830,old_snet-cardano-staking-sdk,SNET Cardano Staking SDK,Nix,False,1,master,2022-12-13T03:47:09Z,2023-11-07T12:06:53Z,2022-12-13T04:11:26Z,0,1,2601,1,singularitynet
+153722044,open-images-annotation,Annotation project on top of the Open Images dataset,Python,False,6,master,2018-10-19T03:33:12Z,2020-04-16T05:15:05Z,2018-10-25T21:00:57Z,6,1,166,6,singularitynet
+157422085,opencog-services,,Scheme,False,1,master,2018-11-13T17:48:38Z,2022-02-06T15:20:52Z,2020-03-13T15:39:50Z,0,4,3775,1,singularitynet
+142283253,opencog-tutorials,,Jupyter Notebook,False,1,master,2018-07-25T10:12:32Z,2018-10-01T14:27:44Z,2018-10-18T11:14:36Z,11,4,80,1,singularitynet
+161204954,opencog-workshops,opencog workshops,Jupyter Notebook,False,5,master,2018-12-10T16:36:49Z,2023-04-12T06:57:38Z,2020-06-23T17:39:36Z,0,2,66904,5,singularitynet
+493221587,phi,Implementation of Tononi Phi values.,Python,False,0,master,2022-05-17T11:28:55Z,2024-05-01T20:40:39Z,2022-10-28T18:39:02Z,0,1,243,0,singularitynet
+107473990,platform-contracts,Smart contracts for running Agents and Services on the SingularityNET open network.,JavaScript,False,86,master,2017-10-18T23:24:27Z,2024-05-08T06:22:39Z,2023-03-01T20:03:47Z,38,43,4887,86,singularitynet
+138799449,platform-pipeline,SingularityNET Platform CI/CD Pipeline Repository,Go,False,2,master,2018-06-26T22:15:15Z,2021-10-08T10:30:40Z,2023-09-06T19:54:24Z,6,7,124,2,singularitynet
+152247137,platform-projects,,,False,0,master,2018-10-09T12:28:04Z,2019-07-12T05:59:24Z,2018-10-09T12:28:04Z,14,0,0,0,singularitynet
+303286050,platform-setup,Scripts to Help you Quickly set up the Singularity Net Platform ,Shell,False,0,main,2020-10-12T05:24:41Z,2024-04-25T11:27:01Z,2024-04-25T11:26:57Z,1,2,35,0,singularitynet
+477589333,rejuve-platform-contracts,Smart contracts for the Rejuve platform,JavaScript,False,1,master,2022-04-04T07:15:43Z,2023-01-06T15:02:52Z,2023-07-27T06:38:58Z,0,1,31319,1,singularitynet
+153221438,reputation,,Python,False,11,master,2018-10-16T04:13:47Z,2023-09-15T08:27:00Z,2024-04-07T15:47:23Z,16,11,48284,11,singularitynet
+161192038,reputation-adapter,,Go,False,2,master,2018-12-10T15:02:46Z,2019-01-22T17:50:03Z,2018-12-20T16:16:04Z,0,1,383,2,singularitynet
+175200216,reputation-simulation,Market simulation based on Reputation System ,Python,False,1,master,2019-03-12T11:50:24Z,2019-09-21T02:46:32Z,2019-09-21T02:46:30Z,2,2,732,1,singularitynet
+173943144,rfai-proposal,,,False,2,master,2019-03-05T12:33:25Z,2021-12-07T11:25:42Z,2019-12-24T04:43:10Z,9,0,7,2,singularitynet
+129960868,sample-tensorflow-service,Simple image classification service for use SingularityNET daemon,Python,False,23,master,2018-04-17T20:24:15Z,2023-09-16T14:08:32Z,2018-12-06T16:44:03Z,2,15,86943,23,singularitynet
+140627199,semantic-segmentation,Semantic segmentation services for SingularityNET,Python,False,8,master,2018-07-11T21:03:13Z,2023-09-16T14:08:43Z,2022-11-22T04:30:16Z,8,6,81,8,singularitynet
+177775037,semantic-segmentation-aerial,,Python,False,0,master,2019-03-26T11:30:38Z,2019-04-09T11:04:15Z,2019-04-09T11:04:14Z,0,1,48546,0,singularitynet
+130070836,semantic-vision,,Python,False,33,master,2018-04-18T13:58:52Z,2023-02-06T02:40:21Z,2020-10-12T21:37:38Z,4,11,82501,33,singularitynet
+152249283,service-spec-provider,This service provides a user with a protobuf.js compatible JSON service definition via HTTP by supplying the Ethereum address of the Agent smart contract,JavaScript,True,0,master,2018-10-09T12:43:56Z,2023-01-28T17:11:27Z,2019-02-28T14:02:59Z,0,5,68,0,singularitynet
+258086222,sim,,,False,0,master,2020-04-23T03:39:04Z,2020-04-23T03:39:30Z,2020-04-23T03:39:06Z,0,0,1,0,singularitynet
+129453343,simulation,,Jupyter Notebook,False,14,master,2018-04-13T21:05:16Z,2021-08-11T20:05:42Z,2022-12-08T02:57:48Z,18,8,177418,14,singularitynet
+294292102,sneps,SingularityNet Enhancement Proposals,,False,0,master,2020-09-10T03:25:03Z,2020-10-09T15:03:29Z,2020-10-09T10:28:37Z,0,1,18,0,singularitynet
+187773692,snet-admin-dapp,DApp to enable service developers to interact with the platform,,False,0,master,2019-05-21T06:18:54Z,2019-05-21T06:18:57Z,2019-06-12T07:03:24Z,21,1,1,0,singularitynet
+703527416,snet-assistant,,Python,False,0,master,2023-10-11T12:10:48Z,2024-03-12T14:57:58Z,2024-03-27T07:50:23Z,0,1,3283,0,singularitynet
+162400731,snet-betav1-dapp,SingularityNET Beta DApp lets you interact with Agents registered on the Kovan network using testnet AGI,JavaScript,True,14,master,2018-12-19T07:41:39Z,2023-09-16T14:08:34Z,2019-08-16T14:16:41Z,32,25,6446,14,singularitynet
+475731126,snet-cardano-dapp-connector,SNET Cardano Dapp connector React component,TypeScript,False,0,master,2022-03-30T05:24:40Z,2022-11-14T10:39:54Z,2022-12-07T06:02:28Z,0,1,22589,0,singularitynet
+212765239,snet-cf-gateway,,,False,0,master,2019-10-04T08:05:41Z,2019-10-04T08:09:11Z,2019-10-07T12:45:14Z,1,2,0,0,singularitynet
+246601930,snet-ci-tools,Some tools that are used in the CI/CD of the SingularityNET's services.,Shell,False,0,master,2020-03-11T15:02:27Z,2020-03-17T16:23:53Z,2020-03-17T16:23:51Z,0,1,37,0,singularitynet
+131075650,snet-cli,SingularityNET CLI for interacting with SNET blockchain contracts and deployed services.,Python,False,73,master,2018-04-25T23:45:42Z,2024-05-08T06:22:27Z,2024-05-02T14:20:17Z,74,50,1778,73,singularitynet
+170650165,snet-code-examples,Server and client code examples for SingularityNET services in supported programming languages,JavaScript,False,1,master,2019-02-14T07:52:00Z,2019-11-05T03:46:12Z,2023-01-03T23:27:48Z,17,2,669,1,singularitynet
+162295360,snet-contract-event-consumer,Consumes events from the registry and MPE contracts,JavaScript,False,0,master,2018-12-18T13:50:41Z,2019-08-22T11:08:31Z,2019-08-22T11:08:29Z,3,6,29,0,singularitynet
+433291522,snet-converter-services,,Python,False,0,development,2021-11-30T04:23:16Z,2022-03-23T08:31:48Z,2024-03-04T14:40:38Z,0,8,498,0,singularitynet
+137923856,snet-daemon,Service Daemon exposes an AI application as an API that is accessible through the SingularityNET Network. It handles all interaction with the blockchain for authorization and payment using AGI tokens and passes through API calls to the AI application.,Go,False,42,master,2018-06-19T17:28:37Z,2024-05-08T06:22:34Z,2024-05-06T14:29:20Z,55,46,43868,42,singularitynet
+172691795,snet-dapp,SingularityNET Beta DApp lets you interact with Services listed on the Ethereum Mainnet,JavaScript,False,19,master,2019-02-26T10:42:03Z,2024-05-08T06:22:49Z,2024-05-03T07:41:19Z,31,41,18042,19,singularitynet
+447852620,snet-dapp-components,SNET dApp components,JavaScript,False,0,main,2022-01-14T05:26:37Z,2022-02-03T03:57:45Z,2024-04-19T10:58:42Z,0,1,8428,0,singularitynet
+357088099,snet-dev-tools,,JavaScript,False,0,master,2021-04-12T06:52:19Z,2021-04-15T04:39:46Z,2021-04-15T04:39:44Z,0,1,28,0,singularitynet
+772406678,snet-ecosystem-contracts,,Python,False,0,master,2024-03-15T06:04:41Z,2024-04-25T13:04:53Z,2024-04-25T13:06:04Z,0,1,60,0,singularitynet
+778302904,snet-ecosystem-contracts-go,,,False,1,master,2024-03-27T13:22:26Z,2024-03-27T13:29:44Z,2024-03-27T13:34:31Z,0,1,0,1,singularitynet
+491013111,snet-eth-event-listener,,Python,False,1,master,2022-05-11T08:01:20Z,2023-06-19T14:37:12Z,2024-03-12T10:26:56Z,0,5,51,1,singularitynet
+301313307,snet-functions,,JavaScript,False,0,main,2020-10-05T06:28:37Z,2020-10-05T09:26:15Z,2020-10-05T10:24:33Z,0,1,8,0,singularitynet
+162280649,snet-marketplace-service,Serves as an index for use by the DApp. Provides a curated set of Services and its details,Python,False,16,master,2018-12-18T11:52:03Z,2024-03-11T00:59:41Z,2024-05-08T11:40:24Z,107,22,4690,16,singularitynet
+397824201,snet-minting-policy,,Haskell,False,4,main,2021-08-19T05:12:45Z,2023-08-24T14:44:41Z,2022-03-10T13:05:17Z,1,8,231,4,singularitynet
+289849549,snet-notification-service,,Python,False,0,master,2020-08-24T06:45:06Z,2022-04-15T08:34:00Z,2022-09-16T07:42:05Z,4,3,66,0,singularitynet
+169715179,snet-platform-usage,,Python,False,0,master,2019-02-08T10:02:30Z,2022-10-12T14:19:45Z,2023-05-22T22:29:20Z,8,6,169,0,singularitynet
+168645551,snet-pricing-oracle,,JavaScript,True,1,master,2019-02-01T05:08:48Z,2023-01-28T15:59:41Z,2019-02-14T14:34:37Z,0,1,45,1,singularitynet
+166026786,snet-rfai,Contract for Request for AI service,JavaScript,False,2,master,2019-01-16T11:12:42Z,2022-11-10T13:01:02Z,2023-01-24T05:13:39Z,19,9,2095,2,singularitynet
+170705361,snet-rfai-dapp,,JavaScript,False,1,master,2019-02-14T14:36:24Z,2021-07-09T11:55:15Z,2021-11-15T08:45:29Z,26,10,9649,1,singularitynet
+217221033,snet-rfai-service,RFAI Services,Python,False,0,development,2019-10-24T05:49:38Z,2019-12-13T08:32:12Z,2021-04-16T06:07:03Z,2,2,228,0,singularitynet
+381911078,snet-sdk-boilerplate-nodejs,,TypeScript,False,0,master,2021-07-01T04:41:18Z,2021-07-14T10:02:18Z,2021-07-15T05:38:33Z,0,2,50,0,singularitynet
+215207274,snet-sdk-java,Java client SDK for SingularityNet platform,Java,False,8,master,2019-10-15T04:33:21Z,2022-10-12T07:46:14Z,2023-11-23T10:23:31Z,2,7,1754,8,singularitynet
+175580919,snet-sdk-js,Javascript SDK,JavaScript,False,1,master,2019-03-14T08:35:51Z,2024-01-17T13:32:05Z,2024-04-27T09:47:31Z,71,1,2521,1,singularitynet
+167896399,snet-sdk-python,Make gRPC calls to SingularityNET services programmatically using Python,Python,False,0,master,2019-01-28T04:00:40Z,2024-04-28T12:57:27Z,2024-05-02T13:49:44Z,12,0,444,0,singularitynet
+315544499,snet-sdk-swift,SNET SDK in Swift,Swift,False,0,main,2020-11-24T06:53:53Z,2021-07-06T10:52:14Z,2021-07-06T10:52:12Z,0,1,441,0,singularitynet
+235012465,snet-stake,,JavaScript,False,7,master,2020-01-20T03:37:24Z,2022-12-22T14:33:38Z,2023-01-24T05:19:43Z,19,3,1205,7,singularitynet
+240466772,snet-staking-service,,Python,False,0,master,2020-02-14T08:59:08Z,2021-10-14T12:50:46Z,2023-11-13T18:31:56Z,10,5,225,0,singularitynet
+195957889,streaming-example-service,,,False,0,master,2019-07-09T07:40:21Z,2019-07-09T07:40:21Z,2019-07-09T07:40:22Z,0,0,0,0,singularitynet
+144041428,style-transfer-service,,Lua,False,5,master,2018-08-08T16:39:53Z,2022-08-25T03:59:48Z,2023-07-05T21:01:49Z,6,5,25541,5,singularitynet
+187088941,sumo-server,,Scheme,False,0,master,2019-05-16T19:26:36Z,2019-07-10T22:56:10Z,2019-07-10T22:56:08Z,0,1,37,0,singularitynet
+154766672,super-resolution-service,,Python,False,5,master,2018-10-26T02:37:00Z,2021-12-10T04:54:41Z,2022-06-21T22:48:10Z,4,4,62211,5,singularitynet
+188398293,test-coverall-to-delete,This is to test coverall on daemon and needs to be deleted.,Go,False,0,master,2019-05-24T09:57:39Z,2019-06-25T13:43:59Z,2023-03-03T00:22:55Z,2,0,321,0,singularitynet
+159670764,time-series-analysis,,Python,False,11,master,2018-11-29T13:29:26Z,2024-01-13T23:59:11Z,2023-07-05T21:14:50Z,6,5,767,11,singularitynet
+166852982,time-series-anomaly-discovery,,C++,False,4,master,2019-01-21T17:25:49Z,2024-03-11T21:07:14Z,2020-03-13T15:39:33Z,3,3,2761,4,singularitynet
+353380982,token-balances-service,Backend for the token balances DApp,Python,False,0,master,2021-03-31T14:16:24Z,2021-06-02T10:36:27Z,2022-06-01T04:25:26Z,1,4,123,0,singularitynet
+128096204,token-contracts,,JavaScript,False,2,master,2018-04-04T17:23:00Z,2019-10-15T03:40:04Z,2019-01-22T13:00:11Z,1,8,238,2,singularitynet
+164805921,topic-analysis,,Python,False,6,master,2019-01-09T06:51:31Z,2023-09-15T08:29:15Z,2021-05-24T11:39:16Z,0,6,127,6,singularitynet
+127822732,wiki,Starting point for finding getting started information for working with SingularityNET and for overall design information.,Shell,False,36,master,2018-04-02T23:11:33Z,2024-04-24T17:20:54Z,2018-12-25T14:21:26Z,2,14,913,36,singularitynet
+283347912,bittensor,Internet-scale Neural Networks,Python,False,786,master,2020-07-28T23:12:38Z,2024-05-07T16:32:14Z,2024-05-08T15:24:57Z,54,240,334603,786,bittensor
+687617114,bittensor-charter,,Python,False,6,main,2023-09-05T16:42:38Z,2024-04-05T22:33:50Z,2023-09-19T02:37:22Z,1,8,21,6,bittensor
+659362425,bittensor-config,BittensorConfig is a library for managing the configuration of the Bittensor Python API,Python,False,0,main,2023-06-27T17:05:37Z,2023-06-27T17:17:24Z,2023-07-26T22:58:58Z,0,2,27,0,bittensor
+618027978,bittensor-delegates,,Python,False,7,main,2023-03-23T15:50:12Z,2024-05-07T19:50:11Z,2024-05-07T20:12:17Z,16,54,164,7,bittensor
+489088380,bittensor-js,"bittensor api, but for web applications",TypeScript,False,1,main,2022-05-05T18:41:02Z,2023-06-22T01:22:05Z,2022-06-15T19:14:59Z,0,2,414,1,bittensor
+676155963,bittensor-subnet-template,Template Design for a Bittensor subnetwork,Python,False,44,main,2023-08-08T14:54:30Z,2024-05-05T21:16:51Z,2024-05-02T16:46:48Z,19,58,336,44,bittensor
+659364096,bittensor-wallet,"BittensorWallet is a library for managing wallet keypairs, keyfiles, etc. for the Bittensor Python API",Python,False,1,main,2023-06-27T17:10:01Z,2023-06-28T00:53:02Z,2023-08-08T18:49:23Z,0,1,97,1,bittensor
+578759606,btclibot,Discord CLI bot,,False,0,main,2022-12-15T20:20:28Z,2022-11-25T13:31:37Z,2022-12-15T19:45:13Z,0,1,753,0,bittensor
+506342582,clm_model_tuning,,Python,False,7,main,2022-06-22T17:23:43Z,2023-12-08T15:42:51Z,2023-04-23T15:38:30Z,1,14,40,7,bittensor
+493323571,cubit,A Cython library to solve the Bittensor registration POW on CUDA,Cuda,False,11,master,2022-05-17T16:06:22Z,2024-02-28T19:07:46Z,2024-01-11T16:59:59Z,1,9,123,11,bittensor
+651251469,dashboards,Opentensor Dashboards,Python,False,0,main,2023-06-08T21:01:55Z,2024-04-04T23:31:50Z,2024-04-04T23:21:37Z,1,1,127,0,bittensor
+703178046,developer-docs,Developer documentation for Bittensor.,HTML,False,16,main,2023-10-10T18:35:34Z,2024-05-07T22:27:33Z,2024-05-07T22:27:30Z,20,18,11624,16,bittensor
+359456423,genesis_dataset,Bittensor mining datasets,,False,3,main,2021-04-19T12:46:03Z,2024-01-02T01:51:49Z,2021-04-19T20:44:04Z,0,1,38,3,bittensor
+553812896,hooktensor,A Nodejs service to watch the bittensor network for new registrations.,TypeScript,False,0,main,2022-10-18T20:12:57Z,2022-10-19T03:46:53Z,2023-04-21T23:10:13Z,0,4,194,0,bittensor
+530342503,mem-pytorch,incredibly efficient GPT ,Python,False,3,main,2022-08-29T18:23:39Z,2023-02-10T19:25:11Z,2022-11-09T03:43:28Z,0,1,36366,3,bittensor
+646999053,miners,Opentensor Miners,Python,False,5,main,2023-05-29T20:49:30Z,2024-04-15T12:48:29Z,2023-08-16T15:33:05Z,0,9,1871,5,bittensor
+498821260,old-docs,The docs ,,True,13,main,2022-06-01T16:49:20Z,2023-12-06T09:25:29Z,2023-11-29T15:21:05Z,4,13,9039,13,bittensor
+794315875,opentensorAI-connector-template,,JavaScript,False,0,main,2024-04-30T22:08:14Z,2024-05-08T13:37:40Z,2024-05-08T13:37:35Z,0,2,197,0,bittensor
+495944237,paratensor_deprecated,Bittensor Parachain ,Rust,False,3,main,2022-05-24T18:32:55Z,2023-06-14T04:35:50Z,2023-02-01T16:17:21Z,3,6,12655,3,bittensor
+761412090,polkadot-sdk,,Rust,False,1,tensordot-v1.4.0,2024-02-21T20:25:04Z,2024-02-26T22:21:39Z,2024-05-01T14:50:14Z,10,0,323808,1,bittensor
+741209532,prompting,SN1: An incentive mechanism for internet-scale conversational intelligence,Python,False,51,main,2024-01-09T23:23:02Z,2024-05-01T20:01:20Z,2024-05-07T16:21:55Z,29,24,4896,51,bittensor
+509520020,RunPodPy,A Python API Wrapper for RunPod.io,Python,False,2,main,2022-07-01T16:22:10Z,2023-12-08T09:42:03Z,2022-07-26T00:22:40Z,0,2,98,2,bittensor
+508370989,squid,,TypeScript,False,0,main,2022-06-28T16:14:43Z,2022-11-24T14:55:52Z,2022-10-31T20:25:52Z,0,1,369,0,bittensor
+778930732,subnet_demo_stack,A collection of subnet demo notebooks,Jupyter Notebook,False,0,main,2024-03-28T17:31:36Z,2024-04-03T20:26:05Z,2024-05-07T11:22:54Z,3,4,715,0,bittensor
+608683796,subtensor,Bittensor Blockchain Layer,Rust,False,102,development,2023-03-02T14:27:24Z,2024-05-08T07:45:44Z,2024-05-08T15:29:54Z,44,71,30970,102,bittensor
+543791862,subtensor-api,A nodejs CLI and python package for connecting with a bittensor subtensor node and accessing chain storage.,Python,True,0,main,2022-09-30T21:11:52Z,2023-07-06T02:56:41Z,2022-11-21T19:29:24Z,0,1,215946,0,bittensor
+651239107,tag_trial_repo_delete_later,,Shell,False,1,main,2023-06-08T20:21:45Z,2023-06-16T17:48:57Z,2023-06-13T15:52:27Z,0,1,25,1,bittensor
+438844993,taotip,Tao Tip Bot for Discord,Python,False,1,main,2021-12-16T03:15:19Z,2022-05-02T19:03:00Z,2022-10-21T13:34:11Z,0,1,469,1,bittensor
+601383636,text-mountain,test,,False,1,master,2023-02-14T00:16:18Z,2023-03-30T17:08:33Z,2023-02-14T00:34:56Z,0,2,2,1,bittensor
+687654447,text-prompting,,Python,False,27,main,2023-09-05T18:13:32Z,2024-04-03T10:14:13Z,2024-02-09T15:11:36Z,7,14,529,27,bittensor
+601243114,validators,Repository for bittensor validators ,Python,False,14,main,2023-02-13T16:58:47Z,2024-04-05T22:33:46Z,2023-11-27T15:26:46Z,14,8,1277,14,bittensor
+329593368,.github,Default community health files for all public repos not using their own default files,,False,0,main,2021-01-14T11:21:40Z,2024-02-27T02:59:51Z,2024-03-12T10:43:12Z,0,19,17,0,oceanprotocol
+257210208,algo_dockers,,JavaScript,False,2,main,2020-04-20T07:54:37Z,2023-11-02T12:58:28Z,2023-12-06T14:28:48Z,0,6,4796,2,oceanprotocol
+137914287,aquarius,🐋 Off-chain database store for data assets metadata.,Python,False,100,main,2018-06-19T15:58:59Z,2024-05-08T06:45:24Z,2024-04-09T14:44:31Z,9,45,8394,100,oceanprotocol
+129901319,art,🐬 Ocean Protocol's assets for community distribution,,False,17,main,2018-04-17T12:29:49Z,2022-03-30T09:40:36Z,2023-02-23T01:49:45Z,3,3,15839,17,oceanprotocol
+131177248,barge,🐳 Docker Compose files for the full Ocean Protocol stack,Shell,False,103,main,2018-04-26T15:40:14Z,2024-04-30T06:07:46Z,2024-04-30T06:08:04Z,8,43,1651,103,oceanprotocol
+357457847,c2d-examples,Sample cdt algorithms,Python,False,0,main,2021-04-13T07:11:49Z,2022-03-10T18:19:00Z,2023-12-13T13:36:52Z,1,0,31677,0,oceanprotocol
+447507571,c2d_barge,Tools used to have c2d in barge,Shell,False,0,main,2022-01-13T07:40:03Z,2024-04-30T06:10:35Z,2024-04-30T06:10:30Z,0,1,37,0,oceanprotocol
+704586298,circulating-supply-api,,JavaScript,False,1,main,2023-10-13T15:20:11Z,2023-10-13T15:37:12Z,2023-10-13T15:29:03Z,0,0,4,1,oceanprotocol
+186685090,community-numbers,🤖 Microservice to cache and expose community numbers. Beep boop.,JavaScript,False,2,main,2019-05-14T19:16:11Z,2023-01-31T17:17:17Z,2023-05-24T10:49:55Z,7,1,547,2,oceanprotocol
+248724103,contracts,🐙 Smart contracts for Ocean Protocol,Solidity,False,75,main,2020-03-20T10:07:54Z,2024-05-08T06:45:18Z,2024-03-21T08:23:16Z,5,57,185285,75,oceanprotocol
+557880059,crawler,,Python,False,1,master,2022-10-26T13:31:20Z,2023-10-05T09:49:45Z,2023-02-15T21:16:38Z,15,0,3083,1,oceanprotocol
+394288558,df-issues,Data Farming issue tracking,,False,0,main,2021-08-09T12:47:14Z,2022-06-01T10:39:28Z,2022-12-06T10:22:55Z,1,0,22,0,oceanprotocol
+465149682,df-py,veOCEAN & Data Farming backend,Python,False,3,main,2022-03-02T03:58:57Z,2024-04-24T14:01:52Z,2024-04-24T19:18:46Z,5,10,11394,3,oceanprotocol
+496150247,df-sql,,JavaScript,False,0,main,2022-05-25T08:43:14Z,2023-03-15T10:07:27Z,2024-04-23T21:48:58Z,3,2,688,0,oceanprotocol
+488111637,df-web,,JavaScript,False,0,main,2022-05-03T07:14:34Z,2024-05-03T13:37:42Z,2024-05-03T13:37:39Z,4,4,3381,0,oceanprotocol
+373122071,dockerhub-proxy,🐙 Microservice API endpoint to validate Docker image URLs.,TypeScript,False,2,main,2021-06-02T10:11:36Z,2023-04-27T11:24:16Z,2023-05-22T02:00:01Z,6,4,603,2,oceanprotocol
+156526410,docs,🐬 Ocean Protocol documentation,JavaScript,False,61,main,2018-11-07T10:01:47Z,2024-05-04T05:36:40Z,2024-05-04T05:36:37Z,9,40,309348,61,oceanprotocol
+524983616,ens-proxy,,TypeScript,False,0,main,2022-08-15T12:45:39Z,2022-09-22T13:00:04Z,2023-12-01T02:08:03Z,7,1,1466,0,oceanprotocol
+138896898,eslint-config-oceanprotocol,💅 🦋 ESLint config for keeping JavaScript consistent across all of Ocean Protocol's projects,JavaScript,False,9,main,2018-06-27T15:00:10Z,2022-11-02T22:28:18Z,2023-03-01T05:01:04Z,6,3,404,9,oceanprotocol
+643954335,fetch,"This repository combines Ocean Protocol’s decentralized data ecosystem with Fetch.ai's Autonomous Economic Agents (AEAs). This ensures secure data exchange, privacy preservation, and enables automated business intelligence generation.",Python,False,3,main,2023-05-22T13:56:07Z,2023-09-01T23:59:05Z,2023-08-10T09:24:47Z,1,0,86,3,oceanprotocol
+280388140,fileinfo,🐙 Microservice API endpoint to get metadata for any remote file.,TypeScript,False,0,main,2020-07-17T09:49:57Z,2021-01-05T09:19:41Z,2021-01-05T09:19:38Z,0,1,41,0,oceanprotocol
+659222096,insights,,TypeScript,False,1,main,2023-06-27T11:30:00Z,2023-11-20T16:08:51Z,2024-01-11T03:31:36Z,12,0,13588,1,oceanprotocol
+215582315,ipfs,👩🏽‍🚀 Ocean Protocol's public IPFS node & gateway.,TypeScript,True,6,master,2019-10-16T15:28:36Z,2023-05-05T08:11:57Z,2021-02-25T13:39:21Z,0,8,1457,6,oceanprotocol
+321388816,jobs,Developer jobs,,False,5,main,2020-12-14T15:21:50Z,2022-07-18T17:23:35Z,2024-03-13T09:11:13Z,0,1,58,5,oceanprotocol
+310315711,list-purgatory,"😈 Lists tracking assets and accounts in Purgatory, which has consequences in the Ocean Market UI.",,False,4,main,2020-11-05T13:58:23Z,2023-03-08T00:28:49Z,2023-11-18T11:23:26Z,2,9,1041,4,oceanprotocol
+259586079,market,🧜‍♀️ THE Data Market,TypeScript,False,181,main,2020-04-28T09:06:41Z,2024-05-08T06:45:00Z,2024-04-12T07:40:02Z,20,290,69643,181,oceanprotocol
+310346871,market-purgatory,😈 Endpoint to deliver purgatory lists.,TypeScript,False,0,main,2020-11-05T15:50:21Z,2021-02-02T14:41:04Z,2021-01-05T09:22:32Z,0,1,35,0,oceanprotocol
+449718214,marketplace-launchpad,Learn how to setup your own data marketplace with blockchain super powers!,JavaScript,True,2,main,2022-01-19T14:11:24Z,2023-04-02T04:06:00Z,2022-08-11T12:48:56Z,6,6,180260,2,oceanprotocol
+357432267,ocean-cli,,TypeScript,False,3,main,2021-04-13T05:17:28Z,2023-11-20T16:08:58Z,2024-04-30T06:10:25Z,8,4,1243,3,oceanprotocol
+374674941,ocean-faucet,,JavaScript,False,0,main,2021-06-07T13:25:14Z,2021-10-21T08:28:30Z,2022-02-14T10:12:27Z,2,0,1180,0,oceanprotocol
+685827039,ocean-node,,,False,4,main,2023-09-01T05:23:28Z,2023-11-20T16:08:30Z,2024-05-08T13:29:33Z,46,2,4765,4,oceanprotocol
+795027561,Ocean-Racing-Team,"Fusing Web3 primitives with AI, Community and Speed to compete in the first ever autonomous racing league",,False,0,main,2024-05-02T12:48:45Z,2024-05-03T14:29:08Z,2024-05-03T14:29:04Z,0,0,61,0,oceanprotocol
+314166273,ocean-subgraph,🦀 Ocean Protocol Subgraph,TypeScript,False,19,main,2020-11-19T07:15:21Z,2024-05-02T09:50:15Z,2024-05-02T09:50:12Z,10,16,9367,19,oceanprotocol
+264921815,ocean.js,"🦑 Ocean Protocol JavaScript library to privately & securely publish, exchange, and consume data.",TypeScript,False,104,main,2020-05-18T11:43:18Z,2024-05-08T06:45:08Z,2024-05-07T14:08:55Z,12,60,51215,104,oceanprotocol
+696715950,ocean.js-react-native-wrapper,,TypeScript,False,0,main,2023-09-26T09:50:04Z,2023-10-04T11:18:17Z,2023-10-25T23:37:44Z,6,0,2129,0,oceanprotocol
+266274883,ocean.py,"🦑 Ocean Protocol's Python library to privately & securely publish, exchange, and consume data.",Python,False,169,main,2020-05-23T06:12:04Z,2024-05-08T06:45:13Z,2024-05-06T01:53:52Z,11,77,25994,169,oceanprotocol
+137735823,oceandb-driver-interface,🐳 Ocean DB Metadata Abstract Plugin System in Python,Python,False,0,develop,2018-06-18T09:59:00Z,2021-01-21T08:26:27Z,2022-12-26T20:43:07Z,1,0,165,0,oceanprotocol
+147822257,oceandb-elasticsearch-driver,🐳 OceanDB ElasticSearch Driver (Python),Python,False,9,develop,2018-09-07T12:45:59Z,2022-02-24T09:35:47Z,2023-02-22T15:37:38Z,8,3,151,9,oceanprotocol
+195814316,operator-engine,Python library allowing to interact with the Kubernetes infrastructure,Python,False,7,v4main,2019-07-08T13:09:43Z,2023-04-20T14:58:38Z,2024-03-07T04:59:00Z,13,13,271,7,oceanprotocol
+195812082,operator-service,Infrastructure Operator Micro-service,Python,False,5,v4main,2019-07-08T12:56:19Z,2023-09-14T07:08:42Z,2024-04-27T16:02:34Z,5,10,256,5,oceanprotocol
+747235965,operator-service-js,,,False,0,main,2024-01-23T14:39:10Z,2024-01-23T14:39:11Z,2024-03-11T11:26:09Z,1,0,313,0,oceanprotocol
+122981979,papers,🌊 Ocean Protocol whitepapers,,False,28,master,2018-02-26T14:34:11Z,2023-03-09T10:43:25Z,2022-09-01T12:18:38Z,0,2,47848,28,oceanprotocol
+721714902,pdr-anl,Predictoor analytics,,False,0,main,2023-11-21T16:16:01Z,2024-04-02T16:30:26Z,2024-04-02T16:31:43Z,2,0,7,0,oceanprotocol
+687914040,pdr-art,Ocean Predictoor logos etc,,False,1,main,2023-09-06T09:09:49Z,2023-09-10T15:54:20Z,2023-09-06T11:04:51Z,0,0,286,1,oceanprotocol
+673240051,pdr-backend,"Instructions & code to run predictoors, traders, more.",Python,False,19,main,2023-08-01T07:27:35Z,2024-05-07T12:20:10Z,2024-05-08T13:37:59Z,53,12,2794,19,oceanprotocol
+774280927,pdr-docs,Predictoor docs,JavaScript,False,0,main,2024-03-19T09:16:20Z,2024-04-30T11:41:40Z,2024-05-05T03:50:52Z,0,0,320040,0,oceanprotocol
+721741388,pdr-lake,Predictoor data lake,,False,0,main,2023-11-21T17:19:31Z,2023-11-21T17:19:43Z,2023-11-21T17:19:32Z,1,0,6,0,oceanprotocol
+671504489,pdr-model-simple,Example model for predictors,Python,False,0,main,2023-07-27T13:20:00Z,2023-08-18T06:40:47Z,2023-10-18T13:41:00Z,1,0,31059,0,oceanprotocol
+635659280,pdr-web,,TypeScript,False,0,main,2023-05-03T07:15:19Z,2023-09-23T05:15:51Z,2024-04-17T18:47:49Z,7,1,2072,0,oceanprotocol
+658805365,pdr-websocket,,TypeScript,False,1,main,2023-06-26T14:22:24Z,2023-08-18T06:40:35Z,2024-04-25T15:46:15Z,8,0,393,1,oceanprotocol
+160800044,plecos,Utility library to validate metadata,Python,False,1,develop,2018-12-07T09:14:01Z,2022-02-24T09:34:14Z,2022-04-25T02:14:14Z,2,3,206,1,oceanprotocol
+285513378,pm,"Zenhub needs each issue associated with one repo. This repo is a workaround, to mark issues that span >1 repos.",,False,4,master,2020-08-06T08:14:02Z,2022-08-01T16:46:18Z,2022-07-07T11:03:12Z,9,0,3,4,oceanprotocol
+195815553,pod-configuration,Piece in charge of preparing the execution of a computing pod,JavaScript,False,1,v4main,2019-07-08T13:17:13Z,2022-01-07T14:18:21Z,2024-03-07T04:36:36Z,8,4,783,1,oceanprotocol
+195815744,pod-publishing,Piece in charge of publishing the data generated by the computing pod,JavaScript,False,1,v4main,2019-07-08T13:18:17Z,2022-05-26T11:05:07Z,2023-12-29T02:31:42Z,10,3,657,1,oceanprotocol
+608671386,predict-eth-data-sources,A rest api for getting data for predict-eth,Python,False,1,main,2023-03-02T14:01:23Z,2023-08-18T07:00:15Z,2023-08-18T07:01:34Z,0,3,182,1,oceanprotocol
+480809433,price-fetch-server,,TypeScript,False,0,main,2022-04-12T12:52:43Z,2022-06-02T08:25:21Z,2024-01-01T03:00:35Z,5,0,1278,0,oceanprotocol
+266799024,provider,REST API for provider of data services,Python,False,27,main,2020-05-25T14:22:49Z,2024-05-08T06:45:30Z,2024-05-06T17:30:25Z,8,38,13089,27,oceanprotocol
+547430715,pybundlr,Simple py driver for bundlr,Python,False,2,main,2022-10-07T17:12:48Z,2024-01-19T10:29:01Z,2023-10-09T09:54:15Z,2,3,81,2,oceanprotocol
+355526855,RBAC-Server,Ocean role-based access control server,TypeScript,False,2,main,2021-04-07T11:55:03Z,2023-04-12T11:01:58Z,2024-01-10T22:41:19Z,10,6,4345,2,oceanprotocol
+258537900,react,🎣 React hooks & components on top of ocean.js,TypeScript,True,30,main,2020-04-24T14:38:52Z,2023-09-11T12:49:39Z,2021-08-03T10:08:13Z,0,10,9531,30,oceanprotocol
+665058271,saphire-rpc-proxy,saphire-rpc-proxy,JavaScript,False,0,main,2023-07-11T10:44:16Z,2023-07-11T10:49:24Z,2024-03-29T05:45:59Z,1,0,86,0,oceanprotocol
+671242659,sapphire.py,Python wrapper for sending transactions in Oasis Sapphire network,Python,False,1,main,2023-07-26T21:54:29Z,2024-05-06T12:39:50Z,2024-05-06T12:43:50Z,3,1,18305,1,oceanprotocol
+564757854,scripts,"A collection of small scripts, for various needs",Python,False,0,main,2022-11-11T12:33:34Z,2024-02-28T21:02:54Z,2024-03-26T07:27:10Z,2,0,595,0,oceanprotocol
+603645819,stats,,TypeScript,False,0,main,2023-02-19T06:17:19Z,2023-02-20T07:55:55Z,2023-10-18T18:53:48Z,4,0,275,0,oceanprotocol
+208799502,status,🐚 Overview and status checks of all Ocean Protocol RPC network connections.,TypeScript,True,4,master,2019-09-16T12:54:57Z,2023-01-28T07:28:30Z,2021-08-03T10:01:19Z,0,1,747,4,oceanprotocol
+546091323,status-api,API for requesting the status of Ocean components,TypeScript,False,0,main,2022-10-05T14:04:09Z,2022-10-05T14:20:45Z,2024-01-01T02:27:31Z,7,0,2155,0,oceanprotocol
+539993645,status-frontend,Frontend client for showing the status of Ocean Protocol services,CSS,False,0,main,2022-09-22T13:23:39Z,2022-10-20T09:44:18Z,2023-11-29T11:44:55Z,8,0,1269,0,oceanprotocol
+528460177,status-monitoring-service,,TypeScript,False,0,main,2022-08-24T14:28:44Z,2022-10-11T13:12:34Z,2023-11-29T12:14:46Z,15,0,2191,0,oceanprotocol
+706714432,stock-api,API which retrieves stock data from current date,JavaScript,False,0,main,2023-10-18T13:32:19Z,2023-10-18T15:18:23Z,2024-03-29T10:54:29Z,1,0,31,0,oceanprotocol
+697654333,ticketing,,TypeScript,False,0,main,2023-09-28T07:46:50Z,2023-10-04T09:01:44Z,2023-11-11T15:50:19Z,12,0,8913,0,oceanprotocol
+624340437,token-gating-template,,TypeScript,False,0,main,2023-04-06T08:54:11Z,2023-05-17T10:16:47Z,2023-07-20T12:57:28Z,1,4,21505,0,oceanprotocol
+665743965,tokengated-next-chatgpt,"Web3 Tokengated Chatbot via OpenAI/Langchain/Hugging Face. Powered by Next, Vercel & Supabase.",TypeScript,False,14,main,2023-07-12T22:50:10Z,2024-04-22T19:11:26Z,2023-10-07T02:05:05Z,6,6,2509,14,oceanprotocol
+685072525,uploader-ui,Uploader UI,TypeScript,False,1,main,2023-08-30T13:09:23Z,2023-10-31T14:44:09Z,2023-11-16T13:57:16Z,5,0,1507,1,oceanprotocol
+635398191,uploader-ui-lib,,TypeScript,False,1,main,2023-05-02T15:56:17Z,2023-10-31T14:43:48Z,2024-01-11T02:17:24Z,13,0,3704,1,oceanprotocol
+636285138,uploader.js,OCEAN Decentralized Backend Storage js Library,TypeScript,False,1,main,2023-05-04T14:01:34Z,2023-10-31T14:44:50Z,2023-12-01T02:36:39Z,9,0,1825,1,oceanprotocol
+550343243,uploader_arweave,Arweave microservice for DBS,JavaScript,False,3,main,2022-10-12T15:46:24Z,2023-10-31T14:44:44Z,2023-11-10T12:39:07Z,4,2,648,3,oceanprotocol
+508652915,uploader_backend,Decentralized backend storage API,Python,False,2,main,2022-06-29T10:54:21Z,2024-01-18T19:02:52Z,2023-11-08T14:58:32Z,2,5,265,2,oceanprotocol
+564744658,uploader_filecoin,Filecoin microservice for DBS,JavaScript,False,4,main,2022-11-11T11:54:40Z,2023-10-31T14:44:27Z,2023-11-03T17:05:42Z,4,3,426,4,oceanprotocol
+693137213,uploader_ipfs,,JavaScript,False,0,main,2023-09-18T12:28:42Z,2023-11-01T15:47:40Z,2024-01-11T03:36:30Z,2,0,219,0,oceanprotocol
+429506749,vw-cli,CLI for VestingWallet ,Python,False,2,main,2021-11-18T16:44:38Z,2022-06-21T11:18:07Z,2023-10-04T15:07:45Z,0,2,230,2,oceanprotocol
+557774491,waves,Ocean Waves Music Marketplace Template,TypeScript,False,0,main,2022-10-26T09:24:45Z,2023-06-26T21:36:13Z,2023-12-19T04:37:02Z,10,7,40898,0,oceanprotocol
+508399369,compute-lite,,Python,True,4,master,2022-06-28T17:44:25Z,2023-12-20T02:26:14Z,2023-08-17T20:15:43Z,0,0,62,4,numerai
+150622229,docs,Documentation  ,,False,21,master,2018-09-27T17:14:41Z,2024-04-25T19:16:08Z,2024-04-25T19:16:04Z,0,16,89344,21,numerai
+355405698,docs-es,Documentation in Spanish,,False,0,master,2021-04-07T03:54:49Z,2023-12-20T00:05:25Z,2023-12-20T21:08:57Z,0,0,981,0,numerai
+734105363,docs-fr,Documentation in French,,False,0,master,2023-12-20T22:06:48Z,2023-12-20T22:06:48Z,2023-12-20T22:31:11Z,0,0,18,0,numerai
+311464380,docs-jp,Documentation in Japanese,,False,3,master,2020-11-09T21:02:57Z,2023-12-20T00:00:45Z,2024-02-18T09:13:04Z,1,5,5597,3,numerai
+355405176,docs-ru,Documentation in Russian,,False,0,master,2021-04-07T03:52:08Z,2023-12-20T00:05:36Z,2023-12-20T21:47:30Z,0,0,7988,0,numerai
+78245673,example-scripts,A collection of scripts and notebooks to help you get started quickly.,Jupyter Notebook,False,768,master,2017-01-06T23:08:38Z,2024-05-06T06:02:26Z,2024-02-14T16:09:36Z,24,266,45988,768,numerai
+621902505,hello-numerai,Numerai Example Notebook,Jupyter Notebook,True,1,master,2023-03-31T16:28:09Z,2023-12-19T23:46:39Z,2023-06-27T17:44:16Z,0,1,4189,1,numerai
+87472110,heroku-buildpack-polymer,Polymer 2 Heroku Buildpack,Shell,True,2,master,2017-04-06T20:29:50Z,2023-12-19T23:31:06Z,2019-12-13T21:48:17Z,2,10,36,2,numerai
+416830443,notebooks,,Jupyter Notebook,True,2,master,2021-10-13T17:05:11Z,2023-12-20T00:02:15Z,2023-05-04T16:18:56Z,3,4,7,2,numerai
+187930883,numerai-cli,Automated submission workflows in the cloud.,Python,False,91,master,2019-05-22T00:00:47Z,2024-04-12T10:24:52Z,2024-02-05T18:28:16Z,8,29,11139,91,numerai
+188291224,numerai-compute-webserver,An example python webserver for running a numerai-compute node,Python,True,5,master,2019-05-23T19:05:07Z,2023-12-19T23:27:05Z,2019-06-01T18:36:05Z,0,2,7,5,numerai
+628102458,numerai-predict,Docker image used to execute user models hosted by Numerai,Python,False,8,master,2023-04-14T23:27:18Z,2024-05-07T20:11:53Z,2024-05-07T20:11:49Z,0,6,3994,8,numerai
+649793798,numerai-tools,"A collection of open-source tools to help interact with Numerai, model data, and automate submissions.",Python,False,11,master,2023-06-05T16:42:28Z,2024-04-23T21:50:42Z,2024-04-22T21:50:16Z,3,7,44,11,numerai
+107438215,numerox,Numerai tournament toolbox written in Python,Python,True,136,master,2017-10-18T17:03:52Z,2024-03-19T03:55:33Z,2021-10-23T23:28:18Z,5,36,15477,136,numerai
+108338136,qrcode,"Fork of https://gitlab.com/Pacodastre/qrcode to avoid namespace collision on ""base32"".",Erlang,True,0,master,2017-10-25T23:40:29Z,2023-12-19T23:20:19Z,2017-11-03T01:44:32Z,0,0,30,0,numerai
+618077004,quant-club,notebooks used in quant club episodes,Jupyter Notebook,False,13,master,2023-03-23T17:48:47Z,2024-04-12T10:22:59Z,2023-05-17T06:05:20Z,0,3,2221,13,numerai
+404373759,signals-example-scripts,The official example scripts for the Numerai Signals Data Science Tournament,Jupyter Notebook,False,19,master,2021-09-08T14:13:20Z,2024-04-23T21:51:28Z,2024-02-21T16:45:19Z,4,14,237,19,numerai
+102884922,submission-criteria,"Originality, concordance, and consistency checks for submissions in Numerai's tournament.",Python,True,102,master,2017-09-08T17:00:51Z,2024-03-19T03:55:52Z,2020-01-19T21:59:38Z,17,24,799,102,numerai
+198510193,tournament-contracts,ETH contracts for NMR and staking,Solidity,False,11,master,2019-07-23T21:23:24Z,2024-04-22T12:41:29Z,2023-01-24T00:40:06Z,23,5,1213,11,numerai
+107187129,tournament-data-integrity,Integrity checks to run on new tournament data before release,Python,True,8,master,2017-10-16T21:53:39Z,2023-12-19T23:18:16Z,2018-01-06T17:48:14Z,1,3,36,8,numerai
