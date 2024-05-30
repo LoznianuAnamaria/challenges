@@ -1,6 +1,6 @@
 # GitHub Activity - Impact on Token Prices
 
-This repository contains an analysis of GitHub activity for the top 6 AI crypto projects: Ocean Protocol, SingularityNET, Fetch.AI, Bittensor, Numerai, and Oraichain.
+This folder contains an analysis of GitHub activity for the top 6 AI crypto projects: Ocean Protocol, SingularityNET, Fetch.AI, Bittensor, Numerai, and Oraichain.
 
 ## Overview
 
