@@ -9,7 +9,7 @@ The analysis aims to explore the correlation between GitHub activity (commits, i
 ## Files Included
 
 - **Colab & Code**:
-  - [Report](Github Activity impact on Token Prices.pdf)
+  - [Report](https://github.com/LoznianuAnamaria/challenges/blob/main/Github%20Activity%20-%3E%20Token%20Trend/Github%20Activity%20impact%20on%20Token%20Prices.pdf)
   - [Colab Notebook](GithubActivity_TokenPrice.ipynb)
 - **Processed Data**:
   - [Commits Data](processed/commits.csv)
