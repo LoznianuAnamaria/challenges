@@ -12,6 +12,7 @@ The challenge presents a unique opportunity to examine 40 years of French tax da
 ## Challenge Objectives
 
 - Rank municipalities by their tax revenue to identify those with the highest income from direct local taxes.
+- Rank departments by their tax revenue.
 - Create graphical representations to illustrate revenue trends in selected towns.
 - Classify municipalities based on their growth in tax revenues over various periods.
 - Investigate the relationship between population size and tax revenue.
@@ -19,12 +20,15 @@ The challenge presents a unique opportunity to examine 40 years of French tax da
 
 ## Dataset
 
-The dataset is an aggregation of French REI (Répertoire des Élus et des Institutions) data files, providing detailed financial and administrative information on French municipalities. Originally a 3.6GB CSV file, it has been converted into a 0.6GB Parquet file for efficient analysis.
+The dataset is an aggregation of French REI (Répertoire des Élus et des Institutions) data files, offering detailed financial and administrative information on French municipalities. It was downloaded locally as a Parquet file and utilized for further analysis.
 
-## Tools and Recommendations
-
-- **Parquet**: The columnar storage format allows faster data access, reduced file size, and improved query performance.
-- **DuckDB**: A high-performance, in-memory database engine optimized for SQL querying on local machines. DuckDB is recommended for interacting with the dataset, ensuring quick and effective analysis.
 
 ## Files Included
+- [Complete Report](French%20Fiscal%20Data%20Analysis.pdf)
+- [Notebooks](notebooks/)
+- [CompetitionDetails](CompetitionDetails.pdf) - Details about the competition and instructions about data retrieval.
+
+# Note
+There are 16 notebooks that retrieve and process data. Please run them in alphabetical order or use the [run_notebooks.ipynb](notebooks/run_notebooks.ipynb) that will run all the notebooks for you and imprint the results. To download the data, there is a dependency on the [DataSharing](https://github.com/ChristianCasazza/datasharing) client.
+
 
