@@ -6,6 +6,7 @@ import os
 CURRENT_DATE = datetime.now().date()
 LIVE_START_DATE = CURRENT_DATE - timedelta(days=30)
 
+
 SAMPLE_SYMBOLS = ['BTC', 'ETH', 'SOL', 'ADA', 'BNB', 'XRP', 'OCEAN', 'NMR', 'FET']
 COUNTRIES = {
     'USA': 'United States',
@@ -25,7 +26,7 @@ COUNTRIES = {
     'SAU': 'Saudi Arabia'
 }
 
-COUNTRIES_SERIES_IDS = {
+COUNTRIES_INTEREST_RATES_SERIES_IDS = {
     'United States': 'INTDSRUSM193N',
     'United Kingdom': 'IR3TIB01GBM156N',
     'China': 'IR3TIB01CNM156N',
@@ -39,8 +40,43 @@ COUNTRIES_SERIES_IDS = {
     'Brazil': 'IRSTCB01BRM156N',
     'Russia': 'IR3TIB01RUM156N',
     'South Korea': 'IR3TIB01KRM156N',
-    'Mexico': 'IR3TIB01MXM156N',
-    'Saudi Arabia': 'INTGSTSAM193N'
+    'Mexico': 'IR3TIB01MXM156N'
+}
+
+COUNTRIES_GDP_SERIES_IDS = {
+    'United States': 'GDP',  # U.S. GDP (Quarterly)
+    'United Kingdom': 'MKTGDPGBA646NWDB',  # UK GDP (Annual)
+    'China': 'MKTGDPCNA646NWDB',  # China GDP (Annual)
+    'Germany': 'MKTGDPDEA646NWDB',  # Germany GDP (Annual)
+    'Japan': 'MKTGDPJPA646NWDB',  # Japan GDP (Annual)
+    'India': 'MKTGDPINA646NWDB',  # India GDP (Annual)
+    'Italy': 'MKTGDPITA646NWDB',  # Italy GDP (Annual)
+    'Australia': 'MKTGDPAUA646NWDB',  # Australia GDP (Annual)
+    'Canada': 'MKTGDPCNA646NWDB',  # Canada GDP (Annual)
+    'France': 'MKTGDPFRA646NWDB',  # France GDP (Annual)
+    'Brazil': 'MKTGDPBRA646NWDB',  # Brazil GDP (Annual)
+    'Russia': 'MKTGDPRUA646NWDB',  # Russia GDP (Annual)
+    'South Korea': 'MKTGDPSKA646NWDB',  # South Korea GDP (Annual)
+    'Mexico': 'MKTGDPMXA646NWDB',  # Mexico GDP (Annual)
+    'Saudi Arabia': 'MKTGDPSAA646NWDB'  # Saudi Arabia GDP (Annual)
+}
+
+COUNTRIES_CPI_SERIES_IDS = {
+    'United States': 'CPIAUCSL',
+    'United Kingdom': 'GBRCPIALLMINMEI',
+    'China': 'CHNCPIALLMINMEI',
+    'Germany': 'DEUCPIALLMINMEI',
+    'India': 'INDCPIALLMINMEI',
+    'Italy': 'ITACPIALLMINMEI',
+    'Brazil': 'BRACPIALLMINMEI',
+    'Russia': 'RUSCPIALLMINMEI',
+    'South Korea': 'KORCPIALLMINMEI',
+    'Mexico': 'MEXCPIALLMINMEI',
+    'Japan': 'JPNCPIALLMINMEI',
+    'Saudi Arabia': 'SAUCPALTT01IXOBM', 
+    'Australia': 'CCRETT01AUM661N', # AUSCPIALLMINMEI
+    'Canada': 'CPALCY01CAM661N', # CPALTT01CAM661N
+    'France': 'CP0000FRM086NEST', # FRCPIALLMINMEI
 }
 
 MISSING_USA_INTEREST_RATES = {
@@ -82,10 +118,10 @@ MISSING_USA_INTEREST_RATES = {
 
 # File Paths
 OHLCV_FILE_PATH = '../data/ohlcv_historical_data.csv'
-FEAR_GREED_DATA_FILE_PATH = '../data/fear_greed_index.csv'
+FEAR_GREED_DATA_FILE_PATH = '../data/fear_greed_data.csv'
 COIN_DETAILS_FILE_PATH = '../data/coin_details.csv'
 GOOGLE_TRENDS_DATA_FILE_PATH = '../data/google_trends_data.csv'
-INTEREST_RATES_DATA_FILE_PATH = '../data/interest_rates.csv'
+FRED_ECONOMIC_DATA_FILE_PATH = '../data/fred_economic_data.csv'
 WORLD_BANK_DATA_FILE_PATH = '../data/world_bank_data.csv'
 MACRO_ECO_FACTORS_DATA_FILE_PATH = '../data/macro_eco_factors_data.csv'
 TRAIN_DATASET_FILE_PATH = '../data/train_dataset.parquet'
@@ -108,14 +144,26 @@ COINMARKETCAP_API_KEY = os.getenv('COINMARKETCAP_API_KEY')
 WORLD_BANK_AP_KEY = os.getenv('WORLD_BANK_AP_KEY')
 STLOUISFED_API_KEY = os.getenv('STLOUISFED_API_KEY')
 
-def load_data(): 
-    train_df = pd.read_parquet("crypto/v1.0/train_targets.parquet")
-    train_df['date'] = pd.to_datetime(train_df['date']).dt.date
+if os.path.exists(TRAIN_TARGETS_PARQUET_FILE_PATH):
+    train_df = pd.read_parquet(TRAIN_TARGETS_PARQUET_FILE_PATH)
 
-    # Set the date range
     TRAIN_START_DATE = train_df['date'].min()
     TRAIN_END_DATE = train_df['date'].max()
+    print(f"TRAIN_START_DATE updated to: {TRAIN_START_DATE}, TRAIN_END_DATE updated to: {TRAIN_END_DATE}")
 
+else: 
+    TRAIN_START_DATE = CURRENT_DATE
+    TRAIN_END_DATE = CURRENT_DATE
+    print(f"TRAIN_START_DATE updated to: {TRAIN_START_DATE}, TRAIN_END_DATE updated to: {TRAIN_END_DATE}")
+
+def load_data(): 
+    global TRAIN_START_DATE
+    global TRAIN_END_DATE
+
+    train_df = pd.read_parquet("crypto/v1.0/train_targets.parquet")
+    TRAIN_START_DATE = train_df['date'].min()
+    TRAIN_END_DATE = train_df['date'].max()
+    print(f"TRAIN_START_DATE updated to: {TRAIN_START_DATE}, TRAIN_END_DATE updated to: {TRAIN_END_DATE}")
 
 def parse_date(date_str):
     try:
